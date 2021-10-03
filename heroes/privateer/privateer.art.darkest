@@ -1,0 +1,27 @@
+commonfx: .deathfx death_medium
+
+weapon: .name "privateer_weapon_0" .icon "eqp_weapon_0.png"
+weapon: .name "privateer_weapon_1" .icon "eqp_weapon_1.png"
+weapon: .name "privateer_weapon_2" .icon "eqp_weapon_2.png"
+weapon: .name "privateer_weapon_3" .icon "eqp_weapon_3.png"
+weapon: .name "privateer_weapon_4" .icon "eqp_weapon_4.png"
+
+armour: .name "privateer_armour_0" .icon "eqp_armour_0.png"
+armour: .name "privateer_armour_1" .icon "eqp_armour_1.png"
+armour: .name "privateer_armour_2" .icon "eqp_armour_2.png"
+armour: .name "privateer_armour_3" .icon "eqp_armour_3.png"
+armour: .name "privateer_armour_4" .icon "eqp_armour_4.png"
+
+combat_skill: .id "priva_sword_slash" .icon "three" .anim "attack_sword" .fx "attack_sword_fx"
+combat_skill: .id "priva_pirate_flag" .icon "one" .anim "attack_mark" .fx "attack_mark" .targchestfx "mark_target_fx"
+combat_skill: .id "priva_drink" .icon "six" .anim "attack_drink" .fx "attack_drink"
+combat_skill: .id "priva_rifle_shoot" .icon "two" .anim "attack_rifle_gun" .fx "attack_rifle" .targchestfx "buckshot_target"
+combat_skill: .id "priva_triple_gun" .icon "four" .anim "attack_pistol" .fx "attack_pistol_fx" .targchestfx "pistol_shot_target"
+combat_skill: .id "priva_barrel" .icon "five" .anim "attack_barrel" .targchestfx "attack_barrel_fx_target"
+combat_skill: .id "priva_fire_spit" .icon "seven" .anim "atttack_fire" .fx "atttack_fire_fx"
+
+combat_move_skill: .id "move" .icon "generic_move" .anim "idle"
+
+riposte_skill: .id "riposte1" .anim "attack_sword" .fx "attack_sword_fx"
+
+act_out_display: .attack_friendly_anim "gas"

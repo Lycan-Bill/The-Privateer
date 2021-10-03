@@ -1,0 +1,20 @@
+
+privateer.sprite.attack_sword.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 71
+  size: 673, 661
+  orig: 673, 661
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 350, 67
+  orig: 350, 67
+  offset: 0, 0
+  index: -1

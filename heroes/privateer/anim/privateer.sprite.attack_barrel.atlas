@@ -1,0 +1,27 @@
+
+privateer.sprite.attack_barrel.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrel
+  rotate: false
+  xy: 586, 257
+  size: 278, 239
+  orig: 278, 239
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 71
+  size: 425, 582
+  orig: 425, 582
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: false
+  xy: 2, 2
+  size: 350, 67
+  orig: 350, 67
+  offset: 0, 0
+  index: -1

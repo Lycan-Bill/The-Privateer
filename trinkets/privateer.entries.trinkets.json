@@ -1,0 +1,116 @@
+{
+	"entries": [{
+			"id": "privateer_grog_barrel",
+			"buffs": [
+				"privateer_afflicted_booze_stress_heal", "Privateer_HP_RUM", "privateer_rum_spd"
+			],
+			"hero_class_requirements": [
+				"privateer"
+			],
+			"rarity": "rare",
+			"price": 25000,
+			"limit": 1,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "privateer_compass",
+			"buffs": [
+				"privateer_compass_scout", "Privateer_Compass_ACC", "privateer_compass_dmg_debuffL", "privateer_compass_dmg_debuffH"
+			],
+			"hero_class_requirements": [
+				"privateer"
+			],
+			"rarity": "very_rare",
+			"price": 10000,
+			"limit": 0,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "privateer_harpoon",
+			"buffs": [
+				"privateer_hook_prot", "privateer_hook_spd"
+			],
+			"hero_class_requirements": [
+				"privateer"
+			],
+			"rarity": "uncommon",
+			"price": 15000,
+			"limit": 0,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "privateer_shanties",
+			"buffs": [
+				"Privateer_Stress_heal_recieved", "privateer_shanties_spd"
+			],
+			"hero_class_requirements": [
+				"privateer"
+			],
+			"rarity": "common",
+			"price": 15000,
+			"limit": 0,
+			"origin_dungeon": ""
+		},
+
+		{
+
+			"id": "privateer_sword",
+			"buffs": [
+				"Privateer_Raiper_RiposteL", "Privateer_Raiper_RiposteH", "Privateer_Raiper_Riposte_ACC", "Privateer_Dodge_Debuff"
+			],
+			"hero_class_requirements": [
+				"privateer"
+			],
+			"rarity": "very_rare",
+			"price": 10000,
+			"limit": 0,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "privateer_dress",
+			"buffs": [
+				"Privateer_blight_resistance", "Privateer_bleed_resistance"
+			],
+			"hero_class_requirements": [
+				"privateer"
+			],
+			"rarity": "very_common",
+			"price": 10000,
+			"limit": 1,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "privateer_wanted_poster",
+			"buffs": ["MAXHP20"],
+			"hero_class_requirements": [
+				"privateer"
+			],
+			"rarity": "ancestral",
+			"price": 10000,
+			"limit": 1,
+			"origin_dungeon": ""
+		},
+		{
+			"id": "privateer_wokou_sword",
+			"buffs": [
+				"MAXHP20"
+			],
+			"hero_class_requirements": [
+				"privateer"
+			],
+			"rarity": "sakura",
+			"price": 30000,
+			"limit": 1,
+			"origin_dungeon": "",
+			"attack_crit_additional_effects": [
+				"MAXHP20"
+
+			]
+		}
+	]
+}

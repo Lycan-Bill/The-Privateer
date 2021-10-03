@@ -1,0 +1,119 @@
+{
+    "entries":
+    [
+        {
+            "id": "privateer_burn_1",
+            "update_duration_type": "after_turn_attack",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0.0,
+                    "completion_effects":
+                    [
+
+                    ],
+                    "increment_effects":
+                    [
+                        "priva_FirSpit_A_DOT_6"
+                    ]
+                },
+                {
+                    "completion_chance": 0.0,
+                    "completion_effects":
+                    [
+
+                    ],
+                    "increment_effects":
+                    [
+                        "priva_FirSpit_A_DOT_5"
+                    ]
+                },
+                {
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [
+                        "priva_FirSpit_A_DOT_4"
+                    ],
+                    "increment_effects":
+                    []
+                }
+            ]
+        },
+        {
+            "id": "privateer_burn_2",
+            "update_duration_type": "after_turn_attack",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0.0,
+                    "completion_effects":
+                    [
+
+                    ],
+                    "increment_effects":
+                    [
+                        "priva_FirSpit_A_DOT_7"
+                    ]
+                },
+                {
+                    "completion_chance": 0.0,
+                    "completion_effects":
+                    [
+
+                    ],
+                    "increment_effects":
+                    [
+                        "priva_FirSpit_A_DOT_6"
+                    ]
+                },
+                {
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [
+                        "priva_FirSpit_A_DOT_5"
+                    ],
+                    "increment_effects":
+                    []
+                }
+            ]
+        },
+        {
+            "id": "privateer_burn_3",
+            "update_duration_type": "after_turn_attack",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0.0,
+                    "completion_effects":
+                    [
+
+                    ],
+                    "increment_effects":
+                    [
+                        "priva_FirSpit_A_DOT_8"
+                    ]
+                },
+                {
+                    "completion_chance": 0.0,
+                    "completion_effects":
+                    [
+
+                    ],
+                    "increment_effects":
+                    [
+                        "priva_FirSpit_A_DOT_7"
+                    ]
+                },
+                {
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [
+                        "priva_FirSpit_A_DOT_6"
+                    ],
+                    "increment_effects":
+                    []
+                }
+            ]
+        }
+    ]
+}

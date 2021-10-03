@@ -1,0 +1,21 @@
+{
+    "entries":
+    [
+        {
+            "id": "Privateer_Bounty_Spawn",
+            "update_duration_type": "after_turn_attack_kill",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 10.00,
+                    "completion_effects":
+                    [
+                        "Priv_Death_supply" 
+                    ],
+                    "increment_effects":
+                    []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+
+privateer.sprite.attack_rifle.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast
+  rotate: false
+  xy: 600, 246
+  size: 504, 234
+  orig: 504, 234
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 1106, 231
+  size: 252, 249
+  orig: 252, 249
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 1360, 297
+  size: 210, 183
+  orig: 210, 183
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 900, 61
+  size: 194, 183
+  orig: 194, 183
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 600, 2
+  size: 298, 242
+  orig: 298, 242
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 478, 596
+  orig: 478, 596
+  offset: 0, 0
+  index: -1
+spark1
+  rotate: false
+  xy: 1572, 412
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+spark2
+  rotate: false
+  xy: 1360, 238
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1

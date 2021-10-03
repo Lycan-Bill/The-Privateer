@@ -1,0 +1,167 @@
+
+privateer.sprite.idle.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 Copy
+  rotate: false
+  xy: 900, 183
+  size: 112, 136
+  orig: 112, 136
+  offset: 0, 0
+  index: -1
+1 Copy 10
+  rotate: false
+  xy: 937, 326
+  size: 46, 109
+  orig: 46, 109
+  offset: 0, 0
+  index: -1
+1 Copy 11
+  rotate: true
+  xy: 720, 186
+  size: 133, 178
+  orig: 133, 178
+  offset: 0, 0
+  index: -1
+1 Copy 12
+  rotate: false
+  xy: 502, 88
+  size: 162, 92
+  orig: 162, 92
+  offset: 0, 0
+  index: -1
+1 Copy 13
+  rotate: true
+  xy: 872, 103
+  size: 78, 147
+  orig: 78, 147
+  offset: 0, 0
+  index: -1
+1 Copy 14
+  rotate: true
+  xy: 715, 321
+  size: 114, 220
+  orig: 114, 220
+  offset: 0, 0
+  index: -1
+1 Copy 15
+  rotate: false
+  xy: 720, 76
+  size: 150, 108
+  orig: 150, 108
+  offset: 0, 0
+  index: -1
+1 Copy 16
+  rotate: false
+  xy: 666, 108
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+1 Copy 17
+  rotate: true
+  xy: 973, 437
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+1 Copy 18
+  rotate: false
+  xy: 960, 72
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+1 Copy 19
+  rotate: false
+  xy: 332, 112
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+1 Copy 2
+  rotate: true
+  xy: 2, 2
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+1 Copy 20
+  rotate: false
+  xy: 261, 144
+  size: 131, 363
+  orig: 131, 363
+  offset: 0, 0
+  index: -1
+1 Copy 3
+  rotate: false
+  xy: 973, 473
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+1 Copy 4
+  rotate: false
+  xy: 502, 182
+  size: 216, 119
+  orig: 216, 119
+  offset: 0, 0
+  index: -1
+1 Copy 5
+  rotate: false
+  xy: 502, 303
+  size: 211, 135
+  orig: 211, 135
+  offset: 0, 0
+  index: -1
+1 Copy 6
+  rotate: false
+  xy: 2, 127
+  size: 257, 380
+  orig: 257, 380
+  offset: 0, 0
+  index: -1
+1 Copy 7
+  rotate: false
+  xy: 261, 78
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+1 Copy 8
+  rotate: false
+  xy: 872, 28
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+1 Copy 9
+  rotate: false
+  xy: 746, 437
+  size: 225, 70
+  orig: 225, 70
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 2, 26
+  size: 99, 254
+  orig: 99, 254
+  offset: 0, 0
+  index: -1
+Layer 2 Copy
+  rotate: false
+  xy: 394, 159
+  size: 106, 279
+  orig: 106, 279
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 394, 440
+  size: 350, 67
+  orig: 350, 67
+  offset: 0, 0
+  index: -1

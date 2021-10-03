@@ -1,0 +1,83 @@
+
+privateer.sprite.attack_drink.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 923, 385
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 923, 385
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 354, 73
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 960, 392
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 960, 392
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 923, 353
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 584, 130
+  size: 337, 291
+  orig: 337, 291
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 108
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+shadow_drink
+  rotate: false
+  xy: 2, 39
+  size: 350, 67
+  orig: 350, 67
+  offset: 0, 0
+  index: -1

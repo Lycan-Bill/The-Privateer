@@ -1,0 +1,20 @@
+
+privateer.sprite.attack_pistol.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 71
+  size: 750, 592
+  orig: 750, 592
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: false
+  xy: 2, 2
+  size: 350, 67
+  orig: 350, 67
+  offset: 0, 0
+  index: -1

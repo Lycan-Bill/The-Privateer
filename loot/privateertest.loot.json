@@ -1,0 +1,19 @@
+{
+   "loot_tables" :
+   [
+   
+   {
+         "id" : "priv_T",
+         "difficulty" : 0,
+         "dungeon" : "",
+         "entries" :
+         [
+			{ "type" : "item", "chances" : 100, "data" : { "type" : "trinket", "id" : "privateer_grog_barrel", "amount" : 1 }},
+            { "type" : "item", "chances" : 1, "data" : { "type" : "trinket", "id" : "privateer_compass", "amount" : 1 }}
+            
+
+                    						      
+         ]
+      }
+   ]
+}

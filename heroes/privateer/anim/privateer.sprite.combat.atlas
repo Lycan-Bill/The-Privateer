@@ -1,0 +1,125 @@
+
+privateer.sprite.combat.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6 Copy
+  rotate: false
+  xy: 549, 195
+  size: 254, 315
+  orig: 254, 315
+  offset: 0, 0
+  index: -1
+6 Copy 10
+  rotate: false
+  xy: 2, 143
+  size: 280, 367
+  orig: 280, 367
+  offset: 0, 0
+  index: -1
+6 Copy 11
+  rotate: false
+  xy: 447, 62
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+6 Copy 12
+  rotate: false
+  xy: 1217, 261
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+6 Copy 13
+  rotate: false
+  xy: 125, 106
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+6 Copy 14
+  rotate: false
+  xy: 2, 41
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1
+6 Copy 2
+  rotate: true
+  xy: 1051, 373
+  size: 137, 359
+  orig: 137, 359
+  offset: 0, 0
+  index: -1
+6 Copy 3
+  rotate: false
+  xy: 1412, 352
+  size: 196, 158
+  orig: 196, 158
+  offset: 0, 0
+  index: -1
+6 Copy 4
+  rotate: true
+  xy: 549, 161
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+6 Copy 5
+  rotate: false
+  xy: 1051, 213
+  size: 164, 89
+  orig: 164, 89
+  offset: 0, 0
+  index: -1
+6 Copy 6
+  rotate: false
+  xy: 1610, 367
+  size: 193, 143
+  orig: 193, 143
+  offset: 0, 0
+  index: -1
+6 Copy 7
+  rotate: true
+  xy: 2, 9
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+6 Copy 9
+  rotate: false
+  xy: 1805, 396
+  size: 101, 114
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 284, 2
+  size: 155, 161
+  orig: 155, 161
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 284, 159
+  size: 263, 351
+  orig: 263, 351
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 805, 206
+  size: 244, 304
+  orig: 244, 304
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1051, 304
+  size: 350, 67
+  orig: 350, 67
+  offset: 0, 0
+  index: -1

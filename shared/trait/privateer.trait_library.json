@@ -1,0 +1,101 @@
+{
+   "traits":
+   [
+      {
+         "id" : "abusive",
+         "is_generated": true,
+         "overstress_type": "affliction",
+         "curio_tag" : "none",
+         "curio_tag_chance" : 0.5,
+         "keep_loot" : false,
+         "generate_chance_modifier" : 0.0,
+         "buff_ids" : 
+         [
+            "STUNRESIST-15",
+            "BLIGHTRESIST-15",
+            "BLEEDRESIST-15",
+            "DISEASERESIST-15",
+            "DEBUFFRESIST-15",
+            "MOVERESIST-15",
+            "TRAPRESIST-15",
+            "MAXHP-10",
+            "ACC-5",
+            "DMGL20",
+            "DMGH20",
+            "DEF-15"
+         ],
+         "combat_start_turn_act_outs":
+		[
+            { "id": "attack_friendly", "data": { "number_value": 0.5,"string_value": "" }, "chance": 1, "valid_hero_class_ids":["privateer"]}
+		],
+         "reaction_act_outs":
+         [
+         ]
+      },
+      {
+         "id" : "irrational",
+         "is_generated": true,
+         "overstress_type": "affliction",
+         "curio_tag" : "All",
+         "curio_tag_chance" : 0.075,
+         "keep_loot" : false,
+         "generate_chance_modifier" : 0.0,
+         "buff_ids" : 
+         [
+            "STUNRESIST-15",
+            "BLIGHTRESIST-15",
+            "BLEEDRESIST-15",
+            "DISEASERESIST-15",
+            "DEBUFFRESIST-15",
+            "MOVERESIST-15",
+            "TRAPRESIST-15",
+            "MAXHP-10",
+            "ACC-5",
+            "DMGL-10",
+            "DMGH-10",
+            "DEF-5",
+            "SPD2"
+         ],
+         "combat_start_turn_act_outs":
+         [
+            { "id": "attack_friendly", "data": { "number_value": 0.5,"string_value": "" }, "chance": 1, "valid_hero_class_ids":["privateer"]}
+         ],
+         "reaction_act_outs":
+         [
+         ]
+      },
+{
+         "id" : "color_madness",
+         "is_generated": true,
+         "overstress_type": "affliction",
+         "curio_tag" : "none",
+         "curio_tag_chance" : 0.25,
+         "keep_loot" : false,
+         "required_dungeon_history" : ["farm"],
+         "generate_chance_modifier" : -1.0,
+         "buff_ids" : 
+         [
+            "STUNRESIST-15",
+            "BLIGHTRESIST-15",
+            "BLEEDRESIST-15",
+            "DISEASERESIST-15",
+            "DEBUFFRESIST-15",
+            "MOVERESIST-15",
+            "TRAPRESIST-15",
+            "MAXHP-10",
+            "STRESSDMG20",
+            "SPD-5",
+            "BLEEDSKILL15",
+            "BLIGHTSKILL15",
+            "ignore_stealth"
+         ],
+         "combat_start_turn_act_outs":
+         [
+            { "id": "attack_friendly", "data": { "number_value": 0.5,"string_value": "" }, "chance": 1, "valid_hero_class_ids":["privateer"]}
+         ],
+         "reaction_act_outs":
+         [
+         ]
+      }
+   ]
+}

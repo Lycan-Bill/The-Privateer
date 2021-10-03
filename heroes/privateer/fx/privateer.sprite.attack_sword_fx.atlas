@@ -1,0 +1,20 @@
+
+privateer.sprite.attack_sword_fx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 176, 75
+  orig: 176, 75
+  offset: 0, 0
+  index: -1
+bounty_hunter.sprite.collect_bounty
+  rotate: true
+  xy: 2, 79
+  size: 386, 666
+  orig: 386, 666
+  offset: 0, 0
+  index: -1

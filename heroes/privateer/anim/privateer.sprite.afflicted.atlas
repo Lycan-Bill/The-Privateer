@@ -1,0 +1,27 @@
+
+privateer.sprite.afflicted.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 904
+  size: 1341, 1127
+  orig: 1341, 1127
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 1345, 1738
+  size: 369, 293
+  orig: 369, 293
+  offset: 0, 0
+  index: -1
+privateerAfflict_clear
+  rotate: false
+  xy: 2, 2
+  size: 735, 900
+  orig: 735, 900
+  offset: 0, 0
+  index: -1

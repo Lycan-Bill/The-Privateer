@@ -1,0 +1,55 @@
+
+privateer.sprite.mark_target_fx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ring
+  rotate: false
+  xy: 447, 263
+  size: 267, 247
+  orig: 267, 247
+  offset: 0, 0
+  index: -1
+skeleton_common.sprite.dead Copy
+  rotate: true
+  xy: 716, 280
+  size: 230, 261
+  orig: 230, 261
+  offset: 0, 0
+  index: -1
+spike01
+  rotate: false
+  xy: 447, 97
+  size: 94, 164
+  orig: 94, 164
+  offset: 0, 0
+  index: -1
+spike02
+  rotate: false
+  xy: 2, 19
+  size: 160, 55
+  orig: 160, 55
+  offset: 0, 0
+  index: -1
+spike03
+  rotate: true
+  xy: 447, 2
+  size: 93, 163
+  orig: 93, 163
+  offset: 0, 0
+  index: -1
+spike04
+  rotate: false
+  xy: 543, 210
+  size: 136, 51
+  orig: 136, 51
+  offset: 0, 0
+  index: -1
+splatter
+  rotate: false
+  xy: 2, 76
+  size: 443, 434
+  orig: 443, 434
+  offset: 0, 0
+  index: -1

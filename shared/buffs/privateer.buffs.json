@@ -1,0 +1,399 @@
+{
+	"buffs": [{
+			"id": "priva_RifSho_Prot_Ignore",
+			"stat_type": "ignore_protection",
+			"stat_sub_type": "",
+			"amount": 1,
+			"remove_if_not_active": false,
+			"rule_type": "actorStatus",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "tagged"
+			}
+		},
+		{
+			"id": "duckgun_crit_1",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.02,
+			"remove_if_not_active": false,
+			"rule_type": "actorStatus",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "tagged"
+			}
+		},
+		{
+			"id": "duckgun_crit_2",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.04,
+			"remove_if_not_active": false,
+			"rule_type": "actorStatus",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "tagged"
+			}
+		},
+		{
+			"id": "duckgun_crit_3",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.06,
+			"remove_if_not_active": false,
+			"rule_type": "actorStatus",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "tagged"
+			}
+		},
+		{
+			"id": "duckgun_crit_4",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.08,
+			"remove_if_not_active": false,
+			"rule_type": "actorStatus",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "tagged"
+			}
+		},
+		{
+			"id": "duckgun_crit_5",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.10,
+			"remove_if_not_active": false,
+			"rule_type": "actorStatus",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "tagged"
+			}
+		},
+		{
+			"id": "Privateer_sword_BLEED_DEBUFF_1",
+			"stat_type": "resistance",
+			"stat_sub_type": "bleed",
+			"amount": -0.08,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "Privateer_sword_BLEED_DEBUFF_2",
+			"stat_type": "resistance",
+			"stat_sub_type": "bleed",
+			"amount": -0.11,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "Privateer_sword_BLEED_DEBUFF_3",
+			"stat_type": "resistance",
+			"stat_sub_type": "bleed",
+			"amount": -0.14,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "Privateer_sword_BLEED_DEBUFF_4",
+			"stat_type": "resistance",
+			"stat_sub_type": "bleed",
+			"amount": -0.17,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "Privateer_sword_BLEED_DEBUFF_5",
+			"stat_type": "resistance",
+			"stat_sub_type": "bleed",
+			"amount": -0.20,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "prive_drunk_resist_1",
+			"stat_type": "stress_dmg_received_percent",
+			"stat_sub_type": "",
+			"amount": -0.10,
+			"duration": 3,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "prive_drunk_resist_2",
+			"stat_type": "stress_dmg_received_percent",
+			"stat_sub_type": "",
+			"amount": -0.15,
+			"duration": 3,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "prive_drunk_resist_3",
+			"stat_type": "stress_dmg_received_percent",
+			"stat_sub_type": "",
+			"amount": -0.20,
+			"duration": 3,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "prive_drunk_resist_4",
+			"stat_type": "stress_dmg_received_percent",
+			"stat_sub_type": "",
+			"amount": -0.25,
+			"duration": 3,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "prive_drunk_resist_5",
+			"stat_type": "stress_dmg_received_percent",
+			"stat_sub_type": "",
+			"amount": -0.30,
+			"duration": 3,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "priva_PirFla_Rip_Tag_DMGH",
+			"stat_type": "combat_stat_multiply",
+			"stat_sub_type": "damage_high",
+			"amount": 0.5,
+			"remove_if_not_active": false,
+			"rule_type": "actorStatus",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "tagged"
+			}
+		},
+		{
+			"id": "priva_PirFla_Rip_Tag_DMGL",
+			"stat_type": "combat_stat_multiply",
+			"stat_sub_type": "damage_low",
+			"amount": 0.5,
+			"remove_if_not_active": false,
+			"rule_type": "actorStatus",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "tagged"
+			}
+		},
+		{
+			"id": "priva_Move_Rip_M",
+			"stat_type": "combat_stat_add",
+			"stat_sub_type": "riposte_on_miss_chance",
+			"amount": 1,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "priva_Move_Rip_H",
+			"stat_type": "combat_stat_add",
+			"stat_sub_type": "riposte_on_hit_chance",
+			"amount": 1,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "privateer_move_debuff_resist_1",
+			"stat_type": "resistance",
+			"stat_sub_type": "move",
+			"amount": -0.10,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "privateer_move_debuff_resist_2",
+			"stat_type": "resistance",
+			"stat_sub_type": "move",
+			"amount": -0.12,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "privateer_move_debuff_resist_3",
+			"stat_type": "resistance",
+			"stat_sub_type": "move",
+			"amount": -0.15,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "privateer_move_debuff_resist_4",
+			"stat_type": "resistance",
+			"stat_sub_type": "move",
+			"amount": -0.18,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+			}
+		},
+		{
+			"id": "privateer_move_debuff_resist_5",
+			"stat_type": "resistance",
+			"stat_sub_type": "move",
+			"amount": -0.21,
+			"remove_if_not_active": false,
+			"rule_type": "always",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": ""
+}
+		},
+		{
+			"id": "priva_sword_slash_crit_1",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.02,
+			"remove_if_not_active": false,
+			"rule_type": "skill",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "priva_sword_slash"
+}
+		},
+		{
+			"id": "priva_sword_slash_crit_2",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.04,
+			"remove_if_not_active": false,
+			"rule_type": "skill",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "priva_sword_slash"
+}
+		},
+		{
+			"id": "priva_sword_slash_crit_3",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.06,
+			"remove_if_not_active": false,
+			"rule_type": "skill",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "priva_sword_slash"
+}
+		},
+		{
+			"id": "priva_sword_slash_crit_4",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.08,
+			"remove_if_not_active": false,
+			"rule_type": "skill",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "priva_sword_slash"
+}
+		},
+		{
+			"id": "priva_sword_slash_crit_5",
+			 "stat_type" : "combat_stat_add",
+         		"stat_sub_type" : "crit_chance",
+			"amount": 0.10,
+			"remove_if_not_active": false,
+			"rule_type": "skill",
+			"is_false_rule": false,
+			"rule_data": {
+				"float": 0,
+				"string": "priva_sword_slash"
+			
+			}
+		}
+	]
+}

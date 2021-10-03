@@ -1,0 +1,118 @@
+
+privateer.sprite.attack_fire_fx.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1601, 532
+  size: 139, 63
+  orig: 139, 63
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 202, 30
+  size: 138, 81
+  orig: 138, 81
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1755, 831
+  size: 90, 135
+  orig: 90, 135
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1601, 673
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 109, 198
+  orig: 109, 198
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1148, 290
+  size: 179, 147
+  orig: 179, 147
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 408, 162
+  size: 122, 174
+  orig: 122, 174
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 584, 190
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1329, 293
+  size: 112, 144
+  orig: 112, 144
+  offset: 0, 0
+  index: -1
+flame1
+  rotate: false
+  xy: 1847, 873
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+flame2
+  rotate: false
+  xy: 1443, 342
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+flame3
+  rotate: false
+  xy: 699, 204
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+flame4
+  rotate: false
+  xy: 1601, 809
+  size: 152, 157
+  orig: 152, 157
+  offset: 0, 0
+  index: -1
+flameblast
+  rotate: false
+  xy: 2, 286
+  size: 1144, 680
+  orig: 1144, 680
+  offset: 0, 0
+  index: -1
+rimLight
+  rotate: true
+  xy: 2, 113
+  size: 171, 404
+  orig: 171, 404
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1148, 439
+  size: 451, 527
+  orig: 451, 527
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+privateer.sprite.attack_mark.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2 Copy 2
+  rotate: false
+  xy: 2, 2
+  size: 272, 253
+  orig: 272, 253
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 257
+  size: 660, 732
+  orig: 660, 732
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: false
+  xy: 664, 922
+  size: 350, 67
+  orig: 350, 67
+  offset: 0, 0
+  index: -1

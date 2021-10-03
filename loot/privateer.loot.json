@@ -1,0 +1,169 @@
+{
+	"loot_tables": [{
+			"id": "priva_gold1",
+			"difficulty": 0,
+			"dungeon": "",
+			"entries": [{
+				"type": "item",
+				"chances": 3,
+				"data": {
+					"type": "gold",
+					"id": "",
+					"amount": 100
+				}
+			}]
+		},
+		{
+			"id": "Privateer_Bounty_List",
+			"difficulty": 0,
+			"dungeon": "",
+			"entries": [{
+				"type": "table",
+				"chances": 100,
+				"data": {
+					"table": "Privateer_Bounty"
+				}
+			}]
+		},
+		{
+			"id": "Privateer_Bounty",
+			"difficulty": 0,
+			"dungeon": "warrens",
+			"entries": [{
+				"type": "item",
+				"chances": 100,
+				"data": {
+					"type": "gem",
+					"id": "Warrens_pig_head",
+					"amount": 1
+				}
+			}]
+		},
+		{
+			"id": "Privateer_Bounty",
+			"difficulty": 0,
+			"dungeon": "crypts",
+			"entries": [{
+				"type": "item",
+				"chances": 100,
+				"data": {
+					"type": "gem",
+					"id": "Crypt_skull_head",
+					"amount": 1
+				}
+			}]
+		},
+		{
+			"id": "Privateer_Bounty",
+			"difficulty": 0,
+			"dungeon": "weald",
+			"entries": [{
+				"type": "item",
+				"chances": 100,
+				"data": {
+					"type": "gem",
+					"id": "Weald_mushroom_flesh",
+					"amount": 1
+				}
+			}]
+		},
+		{
+			"id": "Privateer_Bounty",
+			"difficulty": 0,
+			"dungeon": "cove",
+			"entries": [{
+				"type": "item",
+				"chances": 100,
+				"data": {
+					"type": "gem",
+					"id": "cove_fish_scales",
+					"amount": 1
+				}
+			}]
+		},
+		{
+			"id": "Privateer_Bounty",
+			"difficulty": 0,
+			"dungeon": "courtyard",
+			"entries": [{
+				"type": "item",
+				"chances": 100,
+				"data": {
+					"type": "gem",
+					"id": "courtyard_bloodsuckers_wig",
+					"amount": 1
+				}
+			}]
+		},
+		{
+			"id": "Privateer_Bounty",
+			"difficulty": 0,
+			"dungeon": "farmstead",
+			"entries": [{
+				"type": "item",
+				"chances": 100,
+				"data": {
+					"type": "gem",
+					"id": "farmstead_husk_hoe",
+					"amount": 1
+				}
+			}]
+		},
+		{
+			"id": "priva_gold2",
+			"difficulty": 0,
+			"dungeon": "",
+			"entries": [{
+				"type": "item",
+				"chances": 3,
+				"data": {
+					"type": "gold",
+					"id": "",
+					"amount": 125
+				}
+			}]
+		},
+		{
+			"id": "priva_gold3",
+			"difficulty": 0,
+			"dungeon": "",
+			"entries": [{
+				"type": "item",
+				"chances": 3,
+				"data": {
+					"type": "gold",
+					"id": "",
+					"amount": 150
+				}
+			}]
+		},
+		{
+			"id": "priva_gold4",
+			"difficulty": 0,
+			"dungeon": "",
+			"entries": [{
+				"type": "item",
+				"chances": 3,
+				"data": {
+					"type": "gold",
+					"id": "",
+					"amount": 175
+				}
+			}]
+		},
+		{
+			"id": "priva_gold5",
+			"difficulty": 0,
+			"dungeon": "",
+			"entries": [{
+				"type": "item",
+				"chances": 3,
+				"data": {
+					"type": "gold",
+					"id": "",
+					"amount": 200
+				}
+			}]
+		}
+	]
+}

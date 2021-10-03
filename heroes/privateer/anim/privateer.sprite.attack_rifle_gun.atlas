@@ -1,0 +1,20 @@
+
+privateer.sprite.attack_rifle_gun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 2
+  size: 480, 597
+  orig: 480, 597
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: false
+  xy: 601, 415
+  size: 350, 67
+  orig: 350, 67
+  offset: 0, 0
+  index: -1

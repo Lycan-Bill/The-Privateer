@@ -1,0 +1,6 @@
+inventory_item: .type "gem"		.id "Warrens_pig_head"			.base_stack_limit 4	.purchase_gold_value 0	.sell_gold_value 300
+inventory_item: .type "gem"		.id "Crypt_skull_head"			.base_stack_limit 10	.purchase_gold_value 0	.sell_gold_value 150
+inventory_item: .type "gem"		.id "Weald_mushroom_flesh"			.base_stack_limit 10	.purchase_gold_value 0	.sell_gold_value 250
+inventory_item: .type "gem"		.id "cove_fish_scales"			.base_stack_limit 10	.purchase_gold_value 0	.sell_gold_value 200
+inventory_item: .type "gem"		.id "courtyard_bloodsuckers_wig"			.base_stack_limit 4	.purchase_gold_value 0	.sell_gold_value 500
+inventory_item: .type "gem"		.id "farmstead_husk_hoe"			.base_stack_limit 4	.purchase_gold_value 0	.sell_gold_value 3500

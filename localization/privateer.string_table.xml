@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<language id="english">
+		<entry id="hero_class_name_privateer"><![CDATA[Privateer]]></entry>
+		<entry id="action_verbose_body_blacksmith_privateer"><![CDATA[The Privateer's travels over the seas has left her with knowledge and preparation against the evils of land. The Privateer equiped with rifle and sword; is ready for the front line, a bottle rum helps when things get out of control. ]]></entry>
+
+		<entry id="action_verbose_body_guild_privateer"><![CDATA[Hated and marked by pirates and sea fiends alike, The Privateer travels the sea with her bounties and orders to kill and bring proof of the job completed, marking enemies and blasting them with her guns she is ready to enter the depths of the hamlet.]]></entry>
+
+
+		<entry id="action_verbose_body_camping_trainer_privateer"><![CDATA[Being a seasoned hunter of treasure and pirates, the sea-life has left with some skills to playing a instruments to enterain and bring citrus fruit to help against diease..]]></entry>
+
+	
+		<entry id="combat_skill_name_privateer_priva_sword_slash"><![CDATA[Strike Them Down!]]></entry>
+		<entry id="combat_skill_name_privateer_priva_pirate_flag"><![CDATA[Hunt Them Down]]></entry>
+		<entry id="combat_skill_name_privateer_priva_drink"><![CDATA[Bottle of Rum]]></entry>
+    	<entry id="combat_skill_name_privateer_priva_rifle_shoot"><![CDATA[Dead Ahead]]></entry>
+    	<entry id="combat_skill_name_privateer_priva_triple_gun"><![CDATA[The Duckfoot]]></entry>
+    	<entry id="combat_skill_name_privateer_priva_fire_spit"><![CDATA[Flames of the Sea]]></entry>
+    	<entry id="combat_skill_name_privateer_priva_barrel"><![CDATA[Barrel O' Gunpowder]]></entry>
+    	<entry id="combat_skill_name_privateer_move"><![CDATA[Move]]></entry>
+    		<entry id="upgrade_tree_name_privateer.priva_sword_slash"><![CDATA[Strike Them Down!]]></entry>
+			<entry id="upgrade_tree_name_privateer.brand_tainted"><![CDATA[Hunt Them Down]]></entry>
+    		<entry id="upgrade_tree_name_privateer.priva_pirate_flag"><![CDATA[Bottle of Rum]]></entry>
+    		<entry id="upgrade_tree_name_privateer.priva_drink"><![CDATA[Dead Ahead]]></entry>
+    		<entry id="upgrade_tree_name_privateer.priva_rifle_shoot"><![CDATA[The Duckfoot]]></entry>
+    		<entry id="upgrade_tree_name_privateer.priva_triple_gun"><![CDATA[Flames of the Sea]]></entry>
+    		<entry id="upgrade_tree_name_privateer.priva_barrel"><![CDATA[Barrel O' Gunpowder]]></entry>
+
+			<entry id="privateer_weapon_0"><![CDATA[Cutlass & Rifle]]></entry>
+			<entry id="privateer_weapon_1"><![CDATA[Refined Cutless & Cleaned Rifle]]></entry>
+    		<entry id="privateer_weapon_2"><![CDATA[Readied Cutless & Modifed Rifle]]></entry>
+    		<entry id="privateer_weapon_3"><![CDATA[Officer's Sword & Naval Rifle]]></entry>
+    		<entry id="privateer_weapon_4"><![CDATA["Pirate Slayer & Galleon Sinker"]]></entry>
+    		<entry id="upgrade_tree_name_privateer.weapon"><![CDATA[Sword & Gun]]></entry>
+    		<entry id="privateer_armour_0"><![CDATA[Dirty Jacket & Cap]]></entry>
+    		<entry id="privateer_armour_1"><![CDATA[Peasent's Jacket & Hat]]></entry> 
+    		<entry id="privateer_armour_2"><![CDATA[Bucceneer's Outfit & Hat]]></entry>
+    		<entry id="privateer_armour_3"><![CDATA[Officer's Outfit & Hat]]></entry>
+    		<entry id="privateer_armour_4"><![CDATA["Privateer's Getup"]]></entry>
+    		<entry id="upgrade_tree_name_privateer.armour"><![CDATA[Robe & Accessories]]></entry>
+						
+			<entry id="privateer+str_monster_user_selected_targets_kill_pill"><![CDATA[Come Judgement Day, I'll see YOU burn, demon, so I'll have the last laugh! BRING IT!]]></entry>
+			
+		<entry id="camping_skill_name_first_aid"><![CDATA[WOUND CARE]]></entry>
+		<entry id="camping_skill_name_encourage"><![CDATA[ENCOURAGE]]></entry>
+		<entry id="camping_skill_name_pep_talk"><![CDATA[PEP TALK]]></entry>
+		<entry id="camping_skill_name_privateer_vigil"><![CDATA[privateerAL VIGIL]]></entry>
+		<entry id="camping_skill_name_privateer_trinket"><![CDATA[JUDICIAL CONFISCATION]]></entry>
+		<entry id="camping_skill_name_faith_shield"><![CDATA[MY FAITH IS MY SHIELD]]></entry>
+		<entry id="camping_skill_name_wholesome_instruction"><![CDATA[WHOLESOME INSTRUCTION]]></entry>
+		
+		<entry id="privateer+str_bark_first_aid"><![CDATA[A time to kill and a time to heal.]]></entry>
+		<entry id="privateer+str_bark_first_aid"><![CDATA[A time to love and a time to hate.]]></entry>
+		<entry id="privateer+str_bark_first_aid"><![CDATA[A time to tear and a time to sew.]]></entry>
+		
+		<entry id="privateer+str_bark_encourage"><![CDATA[Look. Under the cowl. I'm still me. It'll be fine, alright?]]></entry>
+		<entry id="privateer+str_bark_encourage"><![CDATA[Remember that evil cannot win. Victory was predetermined from the start.]]></entry>
+		<entry id="privateer+str_bark_encourage"><![CDATA[Do not be afraid. Keep on believing.]]></entry>
+		<entry id="privateer+str_bark_encourage"><![CDATA[You made it this far. That alone puts you above many in the world.]]></entry>
+		<entry id="privateer+str_bark_encourage"><![CDATA[Heed the Verses and your soul shall be saved.]]></entry>
+		<entry id="privateer+str_bark_encourage"><![CDATA[I don't hate you. Not truly, anyway. I've been praying for you all this time.]]></entry>
+		<entry id="privateer+str_bark_encourage"><![CDATA[Here, have a garlic. It'll keep the vampires away and it tastes good besides.]]></entry>
+		
+		<entry id="privateer+str_bark_pep_talk"><![CDATA[It is the way of demons to lie and mislead. Do not listen!]]></entry>
+		<entry id="privateer+str_bark_pep_talk"><![CDATA[The way of evil is one lie after another. Shut them out!]]></entry>
+		<entry id="privateer+str_bark_pep_talk"><![CDATA[An open mind is like a fortress with its gates unbarred and unguarded.]]></entry>
+		<entry id="privateer+str_bark_pep_talk"><![CDATA[Who told you our fight is futile?! I'll burn that heretic!]]></entry>
+		
+		<entry id="str_bark_privateer_vigil"><![CDATA[Be vigilant. A moment of laxity may condemn us all.]]></entry>
+		<entry id="str_bark_privateer_vigil"><![CDATA[Go to sleep. Don't mind me, I'll pile the night's corpses over there.]]></entry>
+		<entry id="str_bark_privateer_vigil"><![CDATA[Pray, if you know how. That's what I'll be doing.]]></entry>
+		
+		<entry id="str_bark_privateer_trinket"><![CDATA[A trophy of the hunt. Consider it a gift.]]></entry>
+		<entry id="str_bark_privateer_trinket"><![CDATA[I have no use for this. Here, you take it.]]></entry>
+		<entry id="str_bark_privateer_trinket"><![CDATA[This thing's last owner was a fool. Who wants it?]]></entry>
+		
+		<entry id="str_bark_faith_shield"><![CDATA[My faith is my shield. Do like me and you will be strong.]]></entry>
+		<entry id="str_bark_faith_shield"><![CDATA[If you believe only what you see, you won't get out of here alive. Have faith!]]></entry>
+		<entry id="str_bark_faith_shield"><![CDATA[Think back. Has ANYTHING the Enemy said been proven true?]]></entry>
+		<entry id="str_bark_faith_shield"><![CDATA[You will see greater things after resurrecting. Things not made by hands or demonic tentacles.]]></entry>
+		
+		
+		<entry id="str_bark_wholesome_instruction"><![CDATA[Come, I will teach you how to pray. Let us pray for guidance, that your soul may be saved.]]></entry>
+		<entry id="str_bark_wholesome_instruction"><![CDATA[When your stress hits your breaking point, call upon the Holy Spirit.]]></entry>
+		<entry id="str_bark_wholesome_instruction"><![CDATA[Of COURSE the Enemy's purpose is to break your will! Deny them!]]></entry>
+		<entry id="str_bark_wholesome_instruction"><![CDATA[Your soul does not belong to the abyss, but to the Creator.]]></entry>
+		
+		<entry id="privateer+str_critbyhero"><![CDATA[That's what you get, fool!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[My faith is my shield!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[Checkmate, godless filth.]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[We will descend upon the foe, we will overwhelm them, we will leave none alive!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[The wages of sin are death!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[Heresy cannot hide from me.]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[COWARDS DIE IN SHAME.]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[BURN, HERETICS!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[To each of us falls a task. Let us to it!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[THIS is the fate of traitors!!!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[You don't frighten me. But now I got a job to do.]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[THIS IS THE JUDGEMENT OF THE RIGHTEOUS, SCUM!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[REPENT, FOR YOUR DEATH IS AT HAND!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[You will have eternity to contemplate your mistakes in the fires of Hell.]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[Repent while you can, worm!]]></entry>
+		<entry id="privateer+str_critbyhero"><![CDATA[I have nothing to fear from death, but YOU do!]]></entry>
+	   
+	  
+	     <entry id="privateer+str_afflicted_fearful"><![CDATA[No, this isn't possible!]]></entry>
+		 <entry id="privateer+str_afflicted_fearful"><![CDATA[Let me out of this madhouse!]]></entry>		
+		 <entry id="privateer+str_afflicted_fearful"><![CDATA[What happened? My faith must not be strong enough!]]></entry>
+		 <entry id="privateer+str_afflicted_fearful"><![CDATA[The shepherd guards his sheep, 'tis true, but who guards the shepherd?!]]></entry>
+	    
+	     <entry id="privateer+str_afflicted_paranoid"><![CDATA[This isn't possible! ...unless... no!]]></entry>
+		 <entry id="privateer+str_afflicted_paranoid"><![CDATA[You've been with them all along, all of you!]]></entry>
+		 <entry id="privateer+str_afflicted_paranoid"><![CDATA[Get behind me and I'll run you through, heretics!]]></entry>
+		 <entry id="privateer+str_afflicted_paranoid"><![CDATA[Beware the tainted, for they can be depended upon to betray!]]></entry>
+		 <entry id="privateer+str_afflicted_paranoid"><![CDATA[Silence! It is the way of demons to lie and mislead thus!]]></entry>
+	     
+	     <entry id="privateer+str_afflicted_masochistic"><![CDATA[This is my duty, my penance!]]></entry>
+		 <entry id="privateer+str_afflicted_masochistic"><![CDATA[I love the sight of blood on the floor! Hahahaha!]]></entry>
+		 <entry id="privateer+str_afflicted_masochistic"><![CDATA[Is this blood mine or yours? Feh, it matters not.]]></entry>
+		 <entry id="privateer+str_afflicted_masochistic"><![CDATA[Seek not rest, for only in death does duty end!]]></entry>
+		 <entry id="privateer+str_afflicted_masochistic"><![CDATA[Scars are a badge of honour! Come hither and honour me!]]></entry>
+	    
+	     <entry id="privateer+str_afflicted_abusive"><![CDATA[That's enough, you've gotten in my way for the last time!]]></entry>
+		 <entry id="privateer+str_afflicted_abusive"><![CDATA[I'm fed to the teeth with your heterodoxy! Let the flames teach you now!]]></entry>
+		 <entry id="privateer+str_afflicted_abusive"><![CDATA[Why the Light bothers with your worthless souls I have no idea.]]></entry>
+		 <entry id="privateer+str_afflicted_abusive"><![CDATA[I can't wait 'til Judgement Day, that I may see you burn.]]></entry>
+		 <entry id="privateer+str_afflicted_abusive"><![CDATA[This is what happens when I fight alongside heathens! Should've known better!]]></entry>
+	    
+	     <entry id="privateer+str_afflicted_selfish"><![CDATA[Give me your share and I may consider dropping the charges against you.]]></entry>
+		 <entry id="privateer+str_afflicted_selfish"><![CDATA[You are all unworthy! It's unjust for you to be rewarded!]]></entry>
+		 <entry id="privateer+str_afflicted_selfish"><![CDATA[You contribute nothing, you get nothing.]]></entry>
+		 <entry id="privateer+str_afflicted_selfish"><![CDATA[Heretics have no right to live, let alone right to reward.]]></entry>
+		 <entry id="privateer+str_afflicted_selfish"><![CDATA[I deserve better than this! Why am I here?!]]></entry>
+	     
+	     <entry id="privateer+str_afflicted_depressed"><![CDATA[When will it all end?]]></entry>
+		 <entry id="privateer+str_afflicted_depressed"><![CDATA[Love was given to others. Now what is left for me?]]></entry>
+		 <entry id="privateer+str_afflicted_depressed"><![CDATA[Why do you not listen to the Word? Now all is lost...]]></entry>
+		 <entry id="privateer+str_afflicted_depressed"><![CDATA[Is it all worth it?]]></entry>
+		 <entry id="privateer+str_afflicted_depressed"><![CDATA[All mortal things are vanity, all physical things pass away.]]></entry>
+		 <entry id="privateer+str_afflicted_depressed"><![CDATA[I've spent my strength for you... and for what?!]]></entry>
+	    
+	     <entry id="privateer+str_afflicted_irrational"><![CDATA[CAN YOU SEE ME NOW, FATHER?!]]></entry>
+		 <entry id="privateer+str_afflicted_irrational"><![CDATA[Brother! Help me!]]></entry>
+		 <entry id="privateer+str_afflicted_irrational"><![CDATA[See how I keep changing faces?! I have problems.]]></entry>
+		 <entry id="privateer+str_afflicted_irrational"><![CDATA[Now watch as I invent a new sport with these cages and those poncy Eldar.]]></entry>
+		 <entry id="privateer+str_afflicted_irrational"><![CDATA[Are we having fun yet?!]]></entry>
+	   
+	     <entry id="privateer+str_virtued_stalwart"><![CDATA[Oh, this is going to be FUN!]]></entry>
+		 <entry id="privateer+str_virtued_stalwart"><![CDATA[BURN, HERETICS!!!]]></entry>
+		 <entry id="privateer+str_virtued_stalwart"><![CDATA[The Light won before the war even began.]]></entry>
+		 <entry id="privateer+str_virtued_stalwart"><![CDATA[The Light shines in the darkness, and the darkness COULD NOT overcome it!]]></entry>
+		 <entry id="privateer+str_virtued_stalwart"><![CDATA[God wills it!]]></entry>
+	    
+	     <entry id="privateer+str_virtued_courageous"><![CDATA[Heed the Word and your souls will be saved!]]></entry>
+		 <entry id="privateer+str_virtued_courageous"><![CDATA[Do you want to live forever?! COME ON THEN!!!]]></entry>
+		 <entry id="privateer+str_virtued_courageous"><![CDATA[Extinguish the Light! TRY IT! HAH!]]></entry>
+		 <entry id="privateer+str_virtued_courageous"><![CDATA[I will stand strong long after you're burning in HELL!]]></entry>
+		 <entry id="privateer+str_virtued_courageous"><![CDATA[My faith is my shield! Do like me and your soul will be saved!]]></entry>
+	    
+	     <entry id="privateer+str_virtued_focused"><![CDATA[The kingdom of darkness will never stand!]]></entry>
+		 <entry id="privateer+str_virtued_focused"><![CDATA[Do as the Verses say and all will be well.]]></entry>
+		 <entry id="privateer+str_virtued_focused"><![CDATA[Justice can never be stopped, only delayed.]]></entry>
+		 <entry id="privateer+str_virtued_focused"><![CDATA[We shall not die! It is the enemy who will taste death and defeat!]]></entry>
+		 <entry id="privateer+str_virtued_focused"><![CDATA[I was born for this.]]></entry>
+	    
+	     <entry id="privateer+str_virtued_powerful"><![CDATA[My craft is death!]]></entry>
+		 <entry id="privateer+str_virtued_powerful"><![CDATA[Blasphemy! I will see you BURN, scum!]]></entry>
+		 <entry id="privateer+str_virtued_powerful"><![CDATA[This part of the world SHALL see purity again!]]></entry>
+		 <entry id="privateer+str_virtued_powerful"><![CDATA[Hah! Strike me, and you only fan the flames of your own coming Hell!]]></entry>
+		 <entry id="privateer+str_virtued_powerful"><![CDATA[NONE CAN WITHSTAND OUR FAITH!]]></entry>
+	   
+	     <entry id="privateer+str_virtued_prosperous"><![CDATA[Please inquire of God, that we may know whether the journey on which we go will be prosperous.]]></entry>
+	    
+	     <entry id="privateer+str_virtued_vigorous"><![CDATA[I meditate on the Law day and night, and it gives me life.]]></entry>
+		 <entry id="privateer+str_virtued_vigorous"><![CDATA[My delight is in the Law, of which there is no shortage in the Universe.]]></entry>
+		 <entry id="privateer+str_virtued_vigorous"><![CDATA[Make me understand the way of Your precepts, and I will meditate on Your wondrous works.]]></entry>
+		 <entry id="privateer+str_virtued_vigorous"><![CDATA[Put aside your commonplace thoughts and focus on the Light.]]></entry>
+		 
+	     <entry id="privateer+str_stress_heal_self_stalwart"><![CDATA[We win now or we win on Judgement Day. What's the difference?!]]></entry>
+		 <entry id="privateer+str_stress_heal_self_stalwart"><![CDATA[Justice is impartial and wonderful.]]></entry>
+		 <entry id="privateer+str_stress_heal_self_stalwart"><![CDATA[Oh, what a joy it is to be on the right side!]]></entry>
+		 <entry id="privateer+str_stress_heal_self_stalwart"><![CDATA[I LOVE THIS!]]></entry>
+		 <entry id="privateer+str_stress_heal_self_stalwart"><![CDATA[I know You're watching, Father. I will give my all!]]></entry>
+	   
+	     <entry id="privateer+str_stress_heal_party_courageous"><![CDATA[We've already won. Focus on your own salvation.]]></entry>
+		 <entry id="privateer+str_stress_heal_party_courageous"><![CDATA[If you are right with God, your body's fate is immaterial.]]></entry>
+		 <entry id="privateer+str_stress_heal_party_courageous"><![CDATA[Are you really afraid of bones, pigs, fish, heretics, and egomaniacal demons? KILL THEM!]]></entry>
+		 <entry id="privateer+str_stress_heal_party_courageous"><![CDATA[Come, we're almost there! FORWARD!]]></entry>
+		 <entry id="privateer+str_stress_heal_party_courageous"><![CDATA[Are you hearing that pretentious voice? Shut him out and listen to ME!]]></entry>
+		 <entry id="privateer+str_stress_heal_party_courageous"><![CDATA[FOR LAW AND ORDER!]]></entry>
+		 <entry id="privateer+str_stress_heal_party_courageous"><![CDATA[For the Light! What, you thought those Verses were just for show?]]></entry>
+		 <entry id="privateer+str_stress_heal_party_courageous"><![CDATA[What ever is the matter? GET MOVING!]]></entry>
+	    
+	     <entry id="privateer+str_buff_random_party_member_focused"><![CDATA[That one has committed many sins. I charge you to end it!]]></entry>
+		 <entry id="privateer+str_buff_random_party_member_focused"><![CDATA[The Inquisition is with you today! End that one!]]></entry>
+		 <entry id="privateer+str_buff_random_party_member_focused"><![CDATA[Look, that one has a big stupid face like a crosshair. You know what to do!]]></entry>
+		 <entry id="privateer+str_buff_random_party_member_focused"><![CDATA[I want you to blow that dumb look right off that stupid face.]]></entry>
+		 <entry id="privateer+str_buff_random_party_member_focused"><![CDATA[Strike there and knock its head clean into the next county.]]></entry>
+		 <entry id="privateer+str_buff_random_party_member_focused"><![CDATA[The fool is distracted! NOW!]]></entry>
+	    
+	     <entry id="privateer+str_buff_party_powerful"><![CDATA[Cleanse! Purge! KILL!]]></entry>
+		 <entry id="privateer+str_buff_party_powerful"><![CDATA[Do what you were CREATED to do: destroy evil!]]></entry>
+		 <entry id="privateer+str_buff_party_powerful"><![CDATA[Cleanse! Purge! KILL!]]></entry>
+		 <entry id="privateer+str_buff_party_powerful"><![CDATA[Cleanse! Purge! KILL!]]></entry>
+		 
+	     <entry id="privateer+str_heal_self_vigorous"><![CDATA[The Word is life!]]></entry>
+		 <entry id="privateer+str_heal_self_vigorous"><![CDATA[For with You is the fountain of life; in Your Light do we see light.]]></entry>
+		 <entry id="privateer+str_heal_self_vigorous"><![CDATA[Hear me, sire! I am in need of more life!]]></entry>
+		 <entry id="privateer+str_heal_self_vigorous"><![CDATA[Heal me, Father!]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_fearful"><![CDATA[Why has He forsaken us?]]></entry>
+		 <entry id="privateer+str_bark_stress_fearful"><![CDATA[We must pray for forgiveness!]]></entry>
+		 <entry id="privateer+str_bark_stress_fearful"><![CDATA[This isn't how it's supposed to go!]]></entry>
+		 <entry id="privateer+str_bark_stress_fearful"><![CDATA[Focus, damn it, focus!!]]></entry>
+		 <entry id="privateer+str_bark_stress_fearful"><![CDATA[We're drawing too many of them! Lay off!]]></entry>
+		 <entry id="privateer+str_bark_stress_fearful"><![CDATA[S-STOP SCREAMING, YOU FOOL! I-I mean...]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_paranoid"><![CDATA[One of you is a vampire! RIGHT?!]]></entry>
+		 <entry id="privateer+str_bark_stress_paranoid"><![CDATA[STOP moving so quickly! You make me nervous!]]></entry>
+		 <entry id="privateer+str_bark_stress_paranoid"><![CDATA[Alright, which one of you heathens sold us out?!]]></entry>
+		 <entry id="privateer+str_bark_stress_paranoid"><![CDATA[Brother! Help me! No, not YOU...]]></entry>
+		 <entry id="privateer+str_bark_stress_paranoid"><![CDATA[You go first, in case it's a trap.]]></entry>
+		 <entry id="privateer+str_bark_stress_paranoid"><![CDATA[What are you hiding? WHAT ARE YOU HIDING?!]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_masochistic"><![CDATA[He who lives by the sword dies by the sword. COME ON THEN!]]></entry>
+		 <entry id="privateer+str_bark_stress_masochistic"><![CDATA[If my lot is to be fuel for the fire, so be it.]]></entry>
+		 <entry id="privateer+str_bark_stress_masochistic"><![CDATA[OUR DEATHS WILL BE MAGNIFICENT!]]></entry>
+		 <entry id="privateer+str_bark_stress_masochistic"><![CDATA[Surrender, fool! Break your weapon on my mighty flesh!]]></entry>
+		 <entry id="privateer+str_bark_stress_masochistic"><![CDATA[Go ahead and stomp my bald pate! It's what I get for not wearing a helmet!]]></entry>
+		 <entry id="privateer+str_bark_stress_masochistic"><![CDATA[Blood, guts, and entrails!]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_abusive"><![CDATA[I should have known better than to travel with mewling infants such as you.]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[Pah! You want a job done right, you have to do it yourself!]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[I am just a hair away from killing you myself, heretics.]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[What, you only grew a conscience now? FIGHT, FILTH!]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[You tolerant fools! Can't you KILL when it matters?!]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[If you don't heed the Word, you're going where you deserve!]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[FIGHT! You need to do better than THAT if we're going to win!]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[And I'm supposed to cleanse the evil below with this...?]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[You know what the vampire and the heretic have in common...? THEY'RE BOTH BLOODSUCKERS LIKE YOU!]]></entry>
+		 <entry id="privateer+str_bark_stress_abusive"><![CDATA[Storybook heroes are more competent than you fools!]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_selfish"><![CDATA[What am I doing HERE? I'm better than this!]]></entry>
+		 <entry id="privateer+str_bark_stress_selfish"><![CDATA[Do as I say or I'll perform inquisition upon you.]]></entry>
+		 <entry id="privateer+str_bark_stress_selfish"><![CDATA[The servant is not greater than his master! Fall in!]]></entry>
+		 <entry id="privateer+str_bark_stress_selfish"><![CDATA[It's no wonder the Hamlet fell apart with the likes of YOU.]]></entry>
+		 <entry id="privateer+str_bark_stress_selfish"><![CDATA[Quiet! You interrupt my cunning mind!]]></entry>
+		 <entry id="privateer+str_bark_stress_selfish"><![CDATA[Stop interfering with what I'm trying to do!]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_depressed"><![CDATA[Why do I bother? No-one appreciates my efforts anyway.]]></entry>
+		 <entry id="privateer+str_bark_stress_depressed"><![CDATA[Happiness. A luxury for those sold to evil.]]></entry>
+		 <entry id="privateer+str_bark_stress_depressed"><![CDATA[The Light shines... what? I forgot! No!]]></entry>
+		 <entry id="privateer+str_bark_stress_depressed"><![CDATA[A righteous man makes no friends. I just forgot, and look at me now.]]></entry>
+		 <entry id="privateer+str_bark_stress_depressed"><![CDATA[Heh. I did this to myself. Life would've been easier as a heathen.]]></entry>
+		 <entry id="privateer+str_bark_stress_depressed"><![CDATA[If you think it's hard to return to the Hamlet in disgrace, think what it'll be like to stand before God.]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_irrational"><![CDATA[YOU DO NOT HAVE THE AUTHORITY TO EXCOMMUNICATE ME, TRAITOR!]]></entry>
+		 <entry id="privateer+str_bark_stress_irrational"><![CDATA[You see Ivan, when disguise self as maskman, enemy no shoot, for too confused]]></entry>
+		 <entry id="privateer+str_bark_stress_irrational"><![CDATA[AH'LL GNAW YER ARM OFF HAGRID AND BASH YEH 'CROSS THE JAW WITH IT]]></entry>
+		 <entry id="privateer+str_bark_stress_irrational"><![CDATA[Enough of this foolishness! I'm going fishing!]]></entry>
+		 <entry id="privateer+str_bark_stress_irrational"><![CDATA[Hacks! It must be hacks!]]></entry>
+		 <entry id="privateer+str_bark_stress_irrational"><![CDATA[If I hear that abominable chanting one minute more, I'll...]]></entry>
+		 <entry id="privateer+str_bark_stress_irrational"><![CDATA[LOOK AT MY HORSE, MY HORSE IS AMAZING!]]></entry>
+		 <entry id="privateer+str_bark_stress_irrational"><![CDATA[Do you want to know how I got these scars?]]></entry>
+		 <entry id="privateer+str_bark_stress_irrational"><![CDATA[If you stick gum on the undersides of chairs and tables, YOU ARE A SCUMBAG.]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_back_fearful"><![CDATA[It's too much! We must flee!]]></entry>
+		 <entry id="privateer+str_change_pos_back_fearful"><![CDATA[SQUAD BROKEN!]]></entry>
+		 <entry id="privateer+str_change_pos_back_fearful"><![CDATA[Y-you go first! Go, I trust you!]]></entry>
+		 <entry id="privateer+str_change_pos_back_fearful"><![CDATA[Here, give me some time to form a strategem.]]></entry>
+		 <entry id="privateer+str_change_pos_back_fearful"><![CDATA[My fire is snuffed out! I must light it again!]]></entry>
+		 <entry id="privateer+str_change_pos_back_fearful"><![CDATA[Charge! No, THIS way! To the Hamlet!]]></entry>
+		 <entry id="privateer+str_change_pos_back_fearful"><![CDATA[Every man for himself!]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_back_paranoid"><![CDATA[You stay where I can see you and I may spare your family.]]></entry>
+		 <entry id="privateer+str_change_pos_back_paranoid"><![CDATA[Don't make any sudden moves!]]></entry>
+		 <entry id="privateer+str_change_pos_back_paranoid"><![CDATA[Heretic! Come out and face me like a man!]]></entry>
+		 <entry id="privateer+str_change_pos_back_paranoid"><![CDATA[They're all around! They've got us completely surrounded!]]></entry>
+		 <entry id="privateer+str_change_pos_back_paranoid"><![CDATA[What's the secret to long life? THAT'S RIGHT!]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_fwd_masochistic"><![CDATA[The Blood is heresy. Stop the bleeding, stop the heresy.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_masochistic"><![CDATA[Martyr's blood is seed. See? Let me die so ten more take my place!]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_masochistic"><![CDATA[Let me through! I will TEAR its HEAD off!]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_masochistic"><![CDATA[Fastest way out is forward.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_masochistic"><![CDATA[You want to fight!? COME HERE!]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_masochistic"><![CDATA[I'M GONNA DECK YA!]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_fwd_irrational"><![CDATA[I will now warp travel on a bicycle. Look at me go!]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_irrational"><![CDATA[How dare you go to the party without me!]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_irrational"><![CDATA[Why do you treat me so brutally, friend? What did I ever do to you?]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_irrational"><![CDATA[Who needs brain?! I will SMASH them with the sheer MIGHT OF MY CRANIUM!]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_irrational"><![CDATA[No, YOU go to Heaven! ...wait...]]></entry>
+	     <entry id="privateer+str_change_pos_fwd_irrational"><![CDATA[Why do we put one foot in front of the other? Why not slide like this?]]></entry>
+	     <entry id="privateer+str_change_pos_fwd_irrational"><![CDATA[CULINARY INSPIRATION!]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_back_irrational"><![CDATA[You accuse ME of murder! I will not stand for this!]]></entry>
+		 <entry id="privateer+str_change_pos_back_irrational"><![CDATA[Excuse me, I have to go polish my humans.]]></entry>
+		 <entry id="privateer+str_change_pos_back_irrational"><![CDATA[Oh, no! I left the corpses on the fire!]]></entry>
+		 <entry id="privateer+str_change_pos_back_irrational"><![CDATA[Forget sailing! Come fly with me!]]></entry>
+		 <entry id="privateer+str_change_pos_back_irrational"><![CDATA[Ooh! What is that over there?!]]></entry>
+		 <entry id="privateer+str_change_pos_back_irrational"><![CDATA[Stop barking! Where is that hideous noise coming from?!]]></entry>
+		 <entry id="privateer+str_change_pos_back_irrational"><![CDATA[A bush in the bird is worth two in the hand.]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_fwd_depressed"><![CDATA[What more do you want of me? Please, just end my suffering...]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_depressed"><![CDATA[End me now, and I go to a better place. Will you?]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_depressed"><![CDATA[My face hasn't exactly made me popular. Suppose you help me with that.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_depressed"><![CDATA[End my suffering. My sacrifices matter to no-one anyway.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_depressed"><![CDATA[Let us see if He appreciates me at least.]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_back_depressed"><![CDATA[Please, just leave me alone...]]></entry>
+		 <entry id="privateer+str_change_pos_back_depressed"><![CDATA[Dark brown is the hazelnut...]]></entry>
+		 <entry id="privateer+str_change_pos_back_depressed"><![CDATA[Clearly I wasn't good enough. Figures.]]></entry>
+		 <entry id="privateer+str_change_pos_back_depressed"><![CDATA[Why am I worth so little? WHY?!]]></entry>
+		 <entry id="privateer+str_change_pos_back_depressed"><![CDATA[Go ahead. No-one will miss me.]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_fwd_selfish"><![CDATA[Out of the way, peasant. This is knight's work.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_selfish"><![CDATA[What are you trying to do? Steal my glory?! Get out.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_selfish"><![CDATA[I'm getting in this time and nothing stops me.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_selfish"><![CDATA[That one belongs to me.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_selfish"><![CDATA[Let me at them! I can do it better anyhow.]]></entry>
+		 <entry id="privateer+str_change_pos_fwd_selfish"><![CDATA[I have a problem. YOU'RE OBSTRUCTING ME!]]></entry>
+		 
+	     <entry id="privateer+str_change_pos_back_selfish"><![CDATA[Nuh-uh. Safety first. MY safety first of all.]]></entry>
+		 <entry id="privateer+str_change_pos_back_selfish"><![CDATA[Buy me some time so I may save your hide.]]></entry>
+		 <entry id="privateer+str_change_pos_back_selfish"><![CDATA[Gah, you smell like a grimoire!]]></entry>
+		 <entry id="privateer+str_change_pos_back_selfish"><![CDATA[Sit right there, sentient meatbag. Give me a moment.]]></entry>
+		 <entry id="privateer+str_change_pos_back_selfish"><![CDATA[Give me some room!]]></entry>
+		 <entry id="privateer+str_change_pos_back_selfish"><![CDATA[Do what you do best and shield your betters!]]></entry>
+		 
+	     <entry id="privateer+str_ignore_command_fearful"><![CDATA[A-alright, I'll just... NO! HELP!]]></entry>
+		 <entry id="privateer+str_ignore_command_fearful"><![CDATA[T-the spirit is willing, but the flesh is weak!]]></entry>
+		 <entry id="privateer+str_ignore_command_fearful"><![CDATA[WHERE'S OUR FIRE SUPPORT?!]]></entry>
+		 <entry id="privateer+str_ignore_command_fearful"><![CDATA[Are you sure?]]></entry>
+		 <entry id="privateer+str_ignore_command_fearful"><![CDATA[I-I really would rather not.]]></entry>
+		 <entry id="privateer+str_ignore_command_fearful"><![CDATA[I'm not strong enough!]]></entry>
+		 <entry id="privateer+str_ignore_command_fearful"><![CDATA[Oh, were you talking?]]></entry>
+		 
+	     <entry id="privateer+str_ignore_command_paranoid"><![CDATA[Absolutely not. You're TRYING to get me killed!]]></entry>
+		 <entry id="privateer+str_ignore_command_paranoid"><![CDATA[I see the faithlessness in your eyes, heathen! You're one of THEM!]]></entry>
+		 <entry id="privateer+str_ignore_command_paranoid"><![CDATA[NO! I can't trust ANYONE!]]></entry>
+		 <entry id="privateer+str_ignore_command_paranoid"><![CDATA[And be betrayed again? Never!]]></entry>
+		 <entry id="privateer+str_ignore_command_paranoid"><![CDATA[Put it in writing and I'll consider it.]]></entry>
+		 <entry id="privateer+str_ignore_command_paranoid"><![CDATA[You're a heretic! You traitor!]]></entry>
+		 <entry id="privateer+str_ignore_command_paranoid"><![CDATA[Just how are you issuing commands to us, anyway?]]></entry>
+		 <entry id="privateer+str_ignore_command_paranoid"><![CDATA[DEMON! Oh, that was you? Sorry, hehe...]]></entry>
+		 
+	     <entry id="privateer+str_ignore_command_selfish"><![CDATA[I'd rather wait for the cavalry!]]></entry>
+		 <entry id="privateer+str_ignore_command_selfish"><![CDATA[Maybe He does, maybe He does not. But I certainly do not will it!]]></entry>
+		 <entry id="privateer+str_ignore_command_selfish"><![CDATA[I have a better idea. How about no?]]></entry>
+		 <entry id="privateer+str_ignore_command_selfish"><![CDATA[Oh, certainly, certainly! And do you want my head mounted on your wall too?]]></entry>
+		 <entry id="privateer+str_ignore_command_selfish"><![CDATA[Maybe later. I'm trying to survive here.]]></entry>
+		 <entry id="privateer+str_ignore_command_selfish"><![CDATA[Not the best strategem right now, believe me!]]></entry>
+		 <entry id="privateer+str_ignore_command_selfish"><![CDATA[Are you cursing at me?!]]></entry>
+		 
+	     <entry id="privateer+str_ignore_command_depressed"><![CDATA[Why should I? You don't care about me any more than THEY do.]]></entry>
+		 <entry id="privateer+str_ignore_command_depressed"><![CDATA[Please, just get me out of here...]]></entry>
+		 <entry id="privateer+str_ignore_command_depressed"><![CDATA[Nothing matters anymore.]]></entry>
+		 <entry id="privateer+str_ignore_command_depressed"><![CDATA[Maybe we were the Flame once, but our fuel is running out.]]></entry>
+		 <entry id="privateer+str_ignore_command_depressed"><![CDATA[So many mistakes... one more or less won't make any difference, you know?]]></entry>
+		 <entry id="privateer+str_ignore_command_depressed"><![CDATA[This is as good a time as any to rethink my life.]]></entry>
+		 <entry id="privateer+str_ignore_command_depressed"><![CDATA[Don't I get a last request?]]></entry>
+		 <entry id="privateer+str_ignore_command_depressed"><![CDATA[Please, I'm not so young anymore...]]></entry>
+		 
+	     <entry id="privateer+str_ignore_command_irrational"><![CDATA[Not now, I'm busy!]]></entry>
+		 <entry id="privateer+str_ignore_command_irrational"><![CDATA[But if I fail at life... do I succeed at death?]]></entry>
+		 <entry id="privateer+str_ignore_command_irrational"><![CDATA[Get me a better weapon first! This one is made of fail.]]></entry>
+		 <entry id="privateer+str_ignore_command_irrational"><![CDATA[Hm... needs more salt!]]></entry>
+		 <entry id="privateer+str_ignore_command_irrational"><![CDATA[Wait, let me see where it says that...]]></entry>
+		 <entry id="privateer+str_ignore_command_irrational"><![CDATA[THERE you are! Did you sleep well?]]></entry>
+		 <entry id="privateer+str_ignore_command_irrational"><![CDATA[That old man that keeps talking to you needs to be beaten within an inch of his life!]]></entry>
+		 
+	     <entry id="privateer+str_random_command_paranoid"><![CDATA[Can't trust ANY of you fools, can I?!]]></entry>
+		 <entry id="privateer+str_random_command_paranoid"><![CDATA[You got me into this, I'm getting myself out.]]></entry>
+		 <entry id="privateer+str_random_command_paranoid"><![CDATA[Stop that! I've gotten an idea!]]></entry>
+		 <entry id="privateer+str_random_command_paranoid"><![CDATA[Rolling the dice isn't always bad. The first crusaders divided their spoils that way.]]></entry>
+		 <entry id="privateer+str_random_command_paranoid"><![CDATA[How can I know which of you has betrayed us?!]]></entry>
+		 <entry id="privateer+str_random_command_paranoid"><![CDATA[Heads or tails. Sure more trustworthy than a heretic.]]></entry>
+		 <entry id="privateer+str_random_command_paranoid"><![CDATA[If you're not in this room, how can I be sure it's really you?]]></entry>
+		 
+	     <entry id="privateer+str_random_command_masochistic"><![CDATA[You want to fight?! Well, let's go!]]></entry>
+		 <entry id="privateer+str_random_command_masochistic"><![CDATA[Come on, put 'em up, you cowards!]]></entry>
+		 <entry id="privateer+str_random_command_masochistic"><![CDATA[I will CRUCIFY you on my staff!]]></entry>
+		 <entry id="privateer+str_random_command_masochistic"><![CDATA[This should inflict suitable pain!]]></entry>
+		 <entry id="privateer+str_random_command_masochistic"><![CDATA[Hah! Let's try it again!]]></entry>
+		 <entry id="privateer+str_random_command_masochistic"><![CDATA[Kill, stab, uh... something.]]></entry>
+		 <entry id="privateer+str_random_command_masochistic"><![CDATA[WAAAGH!!!]]></entry>
+		 <entry id="privateer+str_random_command_masochistic"><![CDATA[IT'S A FIGHT NOW!]]></entry>
+		 
+	     <entry id="privateer+str_random_command_abusive"><![CDATA[Incompetent. I'd do better myself.]]></entry>
+		 <entry id="privateer+str_random_command_abusive"><![CDATA[No better than those blind, corrupt fools in the church.]]></entry>
+		 <entry id="privateer+str_random_command_abusive"><![CDATA[Take the log out of your own eye and then we can talk about my speck.]]></entry>
+		 <entry id="privateer+str_random_command_abusive"><![CDATA[Relinquish your heretical beliefs and then we'll talk.]]></entry>
+		 <entry id="privateer+str_random_command_abusive"><![CDATA[This is YOUR fault! You brought me to this!]]></entry>
+		 <entry id="privateer+str_random_command_abusive"><![CDATA[I'll take matters into my own hands! Worked before!]]></entry>
+		 <entry id="privateer+str_random_command_abusive"><![CDATA[Sit down, kid, I have things under control!]]></entry>
+		 
+	     <entry id="privateer+str_random_command_selfish"><![CDATA[Stop squirming and die like an adult!]]></entry>
+		 <entry id="privateer+str_random_command_selfish"><![CDATA[Stop bothering me! I have work to do!]]></entry>
+		 <entry id="privateer+str_random_command_selfish"><![CDATA[Let me see now. Where was I before I was so rudely interrupted?]]></entry>
+		 <entry id="privateer+str_random_command_selfish"><![CDATA[Leave it with my secretary. I'll look at it later if I have time.]]></entry>
+		 <entry id="privateer+str_random_command_selfish"><![CDATA[Looks like an example will have to be made.]]></entry>
+		 <entry id="privateer+str_random_command_selfish"><![CDATA[Let a professional do the work now.]]></entry>
+		 <entry id="privateer+str_random_command_selfish"><![CDATA[Do you see this? Don't use that tone with me!]]></entry>
+		 
+	     <entry id="privateer+str_random_command_depressed"><![CDATA[And they call me evil and insane, just for trying to do good...]]></entry>
+		 <entry id="privateer+str_random_command_depressed"><![CDATA[Leave me alone. I'm at the end of my rope.]]></entry>
+		 <entry id="privateer+str_random_command_depressed"><![CDATA[All will die for refusing to heed the Word. I don't want to see it.]]></entry>
+		 <entry id="privateer+str_random_command_depressed"><![CDATA[Please stay with me! I'll protect you.]]></entry>
+		 <entry id="privateer+str_random_command_depressed"><![CDATA[Such is my lot. Let me embrace it already.]]></entry>
+		 <entry id="privateer+str_random_command_depressed"><![CDATA[Feh. Things are little better out there.]]></entry>
+		 
+	     <entry id="privateer+str_random_command_irrational"><![CDATA[In the grim darkness of the far future... there is only war.]]></entry>
+		 <entry id="privateer+str_random_command_irrational"><![CDATA[How did I get here?]]></entry>
+		 <entry id="privateer+str_random_command_irrational"><![CDATA[Stop it! I've nearly discovered time travel!]]></entry>
+		 <entry id="privateer+str_random_command_irrational"><![CDATA[Ooh! Shiny! I will TAKE IT OFF YOUR FACE!]]></entry>
+		 <entry id="privateer+str_random_command_irrational"><![CDATA[Where are you going, weapon of mine? Get back here!]]></entry>
+		 <entry id="privateer+str_random_command_irrational"><![CDATA[How did I get here?]]></entry>
+		 <entry id="privateer+str_random_command_irrational"><![CDATA[When I was young, I lived... somewhere. AND LOOK AT ME NOW!]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_camp_fearful"><![CDATA[Cut off one head and two more take its place.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_fearful"><![CDATA[No! Please! Don't go anywhere!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_fearful"><![CDATA[Can I go home now?]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_fearful"><![CDATA[DON'T MOVE! What was that sound?]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_camp_paranoid"><![CDATA[I heard that! That was a pagan prayer, wasn't it!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_paranoid"><![CDATA[I see you looking at my jugular vein! One move and you get the stake!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_paranoid"><![CDATA[Keep your distance and we'll be fine.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_paranoid"><![CDATA[You're starting to look fishy! Pray you don't look any MORE fishy or else!]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_camp_masochistic"><![CDATA[You see, the secret to avoiding heresy is not taking blood, but giving it.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_masochistic"><![CDATA[Take my blood. All of it. Didn't need it anyway.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_masochistic"><![CDATA[A refreshing vacation, to be sure.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_masochistic"><![CDATA[Who's hiding back there? Come so I can split your head open!]]></entry>
+		 
+	     <entry id="privateer+str_bark_stress_camp_abusive"><![CDATA[Your existence is offensive to the Almighty!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_abusive"><![CDATA[If you're looking for trouble, I can accommodate you.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_abusive"><![CDATA[Go ahead. Act on your thoughts of me. I'll return the favour in kind.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_abusive"><![CDATA[That bad feeling is going to be replaced by blinding pain if you don't shut up!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_abusive"><![CDATA[I HATE YOU ALL!]]></entry>
+	     
+		 <entry id="privateer+str_bark_stress_camp_selfish"><![CDATA[You're no better than those traitors who tried to excommunicate me.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_selfish"><![CDATA[I'M not the madman, you degenerate filth.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_selfish"><![CDATA[I expect full compensation for putting up with this.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_selfish"><![CDATA[You need to be more dignified! You need to be more like... me!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_selfish"><![CDATA[What sinfulness are you hiding there? Give it to me NOW!]]></entry>
+	     
+		 <entry id="privateer+str_bark_stress_camp_depressed"><![CDATA[I thought being good was supposed to make you loved. Guess not.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_depressed"><![CDATA[Go ahead. Take my portion. I don't matter, after all.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_depressed"><![CDATA[Suffering noble and all... until you begin.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_depressed"><![CDATA[So much misery among us... are we bringing happiness to anybody?]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_depressed"><![CDATA[Half-hearted efforts and selfishness are why Mankind is failing now.]]></entry>
+	     
+		 <entry id="privateer+str_bark_stress_camp_irrational"><![CDATA[But my liege, I object to this plan that you have planned.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_irrational"><![CDATA[Now, which one of you stole my hair?!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_irrational"><![CDATA[You want to hear a joke? Darkness! HAHA!!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_irrational"><![CDATA[Fire makes food taste good? Well, fire must taste even better! Give me some of it!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_irrational"><![CDATA[Considering the practise I'm getting with this hammer, I ought to try croquet.]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_irrational"><![CDATA[How about a song from the future, everybody?!]]></entry>
+		 <entry id="privateer+str_bark_stress_camp_irrational"><![CDATA[If they'd bothered to make this mod-friendly, I wouldn't look like this!]]></entry>
+	     
+		 <entry id="privateer+str_mark_self_masochistic"><![CDATA[I leave myself open to attack. Do it, I dare you!]]></entry>
+		 <entry id="privateer+str_mark_self_masochistic"><![CDATA[Harm me and you incur the wrath of the Almighty. Go ahead!]]></entry>
+		 <entry id="privateer+str_mark_self_masochistic"><![CDATA[I don't wear this pauldron just for show! Come on, give it here!]]></entry>
+		 <entry id="privateer+str_mark_self_masochistic"><![CDATA[Target me! I can take it!]]></entry>
+	     
+		 <entry id="privateer+str_mark_self_depressed"><![CDATA[I can't bear it any longer. Come get me. Here.]]></entry>
+		 <entry id="privateer+str_mark_self_depressed"><![CDATA[The sooner I go, the sooner I reunite with them all.]]></entry>
+		 <entry id="privateer+str_mark_self_depressed"><![CDATA[I miss my dear old golden-maned dog...]]></entry>
+		 <entry id="privateer+str_mark_self_depressed"><![CDATA[There are other heroes coming. You won't miss one.]]></entry>
+	     
+		 <entry id="privateer+str_mark_self_irrational"><![CDATA[Hey! Have you seen my new shoes?! They are made out of STEEL!]]></entry>
+		 <entry id="privateer+str_mark_self_irrational"><![CDATA[Look at me!! My pate is bald! Shiny, too!]]></entry>
+		 <entry id="privateer+str_mark_self_irrational"><![CDATA[I'M FABULOUS!]]></entry>
+		 <entry id="privateer+str_mark_self_irrational"><![CDATA[Hey, watch me trigger the Enemy. YOU ARE FAKE NEWS!]]></entry>
+		 <entry id="privateer+str_mark_self_irrational"><![CDATA[Hey, stupid! You got a face that could only come out of the Warrens!]]></entry>
+	     
+		 <entry id="privateer+str_attack_friendly_paranoid"><![CDATA[YOU are the vampiric infiltrator! Take this!!]]></entry>
+		 <entry id="privateer+str_attack_friendly_paranoid"><![CDATA[AHA! Found you, heretic!]]></entry>
+		 <entry id="privateer+str_attack_friendly_paranoid"><![CDATA[A SKELETON! HAVE AT THEE!]]></entry>
+		 <entry id="privateer+str_attack_friendly_paranoid"><![CDATA[On my side? Lier! INCORRECT GRAMMAR?!]]></entry>
+	     
+		 <entry id="privateer+str_attack_friendly_abusive"><![CDATA[You WILL heed the Word, or I'll BEAT it into you!]]></entry>
+		 <entry id="privateer+str_attack_friendly_abusive"><![CDATA[THIS is for your black thoughts on privateerism!]]></entry>
+		 <entry id="privateer+str_attack_friendly_abusive"><![CDATA[THIS is how to strike, you fool!]]></entry>
+		 <entry id="privateer+str_attack_friendly_abusive"><![CDATA[You've done it now.]]></entry>
+		 <entry id="privateer+str_attack_friendly_abusive"><![CDATA[I'm going to beat you bloody, ungrateful wretch!]]></entry>
+		 <entry id="privateer+str_attack_friendly_abusive"><![CDATA[You piece of trash!]]></entry>
+	     
+		 <entry id="privateer+str_attack_friendly_irrational"><![CDATA[Ooh! A piñata! Let me at it!]]></entry>
+		 <entry id="privateer+str_attack_friendly_irrational"><![CDATA[Found you, xeno! Come out of that costume!]]></entry>
+		 <entry id="privateer+str_attack_friendly_irrational"><![CDATA[Stop squirming and let me FIX your FACE!]]></entry>
+		 <entry id="privateer+str_attack_friendly_irrational"><![CDATA[Repeat after me: "I can't believe you done this."]]></entry>
+	     
+		 <entry id="privateer+str_attack_self_masochistic"><![CDATA[Hah! I'm not afraid of blood! Watch this!]]></entry>
+		 <entry id="privateer+str_attack_self_masochistic"><![CDATA[Feh! Don't need THIS, or THAT...]]></entry>
+		 <entry id="privateer+str_attack_self_masochistic"><![CDATA[Yes! I can serve the Light without ANY limbs! Just watch!]]></entry>
+		 <entry id="privateer+str_attack_self_masochistic"><![CDATA[I can do this with both hands tied behind my back! Watch!]]></entry>
+	     
+		 <entry id="privateer+str_attack_self_depressed"><![CDATA[Heaven forgive me...]]></entry>
+		 <entry id="privateer+str_attack_self_depressed"><![CDATA[If you're not in my life, I should be OUT of my life...]]></entry>
+		 <entry id="privateer+str_attack_self_depressed"><![CDATA[I've done enough. You take it from here.]]></entry>
+		 <entry id="privateer+str_attack_self_depressed"><![CDATA[I've spent all my tricks. I'm sorry.]]></entry>
+		 <entry id="privateer+str_attack_self_depressed"><![CDATA[I'm done. Farewell. You take care now.]]></entry>
+	     
+		 <entry id="privateer+str_attack_self_irrational"><![CDATA[How did I get so big? Something's not right here, let me fix it!]]></entry>
+		 <entry id="privateer+str_attack_self_irrational"><![CDATA[Why do I keep changing into this little helmeted man? Out, impostor!]]></entry>
+		 <entry id="privateer+str_attack_self_irrational"><![CDATA[Why is there a heretical version of me fighting us out there? Or maybe I'M the... NO!]]></entry>
+	     
+		 <entry id="privateer+str_block_combat_retreat_paranoid"><![CDATA[Probably a good idea, but YOU probably have a trap set up on the other side!]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_paranoid"><![CDATA[Alright, just give me a little more time to calculate...]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_paranoid"><![CDATA[Are you in league with the old man that started this all? FORWARD!]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_paranoid"><![CDATA[That's just what they want us to do!]]></entry>
+	     
+		 <entry id="privateer+str_block_combat_retreat_depressed"><![CDATA[Forsake my body, sure. Forsake my soul, NEVER!]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_depressed"><![CDATA[No. Let me die honourably at least.]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_depressed"><![CDATA[To add that dishonour on top of everything else? We make our stand here.]]></entry>
+	     
+		 <entry id="privateer+str_block_combat_retreat_masochistic"><![CDATA[ARE YOU READY TO DIE FOR ME?]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_masochistic"><![CDATA[No. Let the bloodletting continue.]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_masochistic"><![CDATA[Cowards die in shame! They die twice, thrice even!]]></entry>
+	     
+		 <entry id="privateer+str_block_combat_retreat_irrational"><![CDATA[What's the rush? We can't keep them waiting!]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_irrational"><![CDATA[No! Not now, I'm going to win this hand!]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_irrational"><![CDATA[If you run from the cops, you alone are at fault if they shoot at you.]]></entry>
+		 <entry id="privateer+str_block_combat_retreat_irrational"><![CDATA[I haven't time to play now. I'm doing taxes.]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_hit_fearful"><![CDATA[ARGH! AAYYIKKE!]]></entry>
+		 <entry id="privateer+str_comment_self_hit_fearful"><![CDATA[OOAH!]]></entry>
+		 <entry id="privateer+str_comment_self_hit_fearful"><![CDATA[They came from behind!]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_hit_paranoid"><![CDATA[Did I mention the one about two heads yet? Yep.]]></entry>
+		 <entry id="privateer+str_comment_self_hit_paranoid"><![CDATA[Heretics and apostates and profligates, oh my!]]></entry>
+		 <entry id="privateer+str_comment_self_hit_paranoid"><![CDATA[Why, you worthless pretender!]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_hit_selfish"><![CDATA[If I die, who will perform last rites?]]></entry>
+		 <entry id="privateer+str_comment_self_hit_selfish"><![CDATA[Feh.]]></entry>
+		 <entry id="privateer+str_comment_self_hit_selfish"><![CDATA[Is that so?]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_hit_masochistic"><![CDATA[Can't you just sit still for a minute, damn it!]]></entry>
+		 <entry id="privateer+str_comment_self_hit_masochistic"><![CDATA[Hm, like big fat grapes...]]></entry>
+		 <entry id="privateer+str_comment_self_hit_masochistic"><![CDATA[Pathetic!]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_hit_irrational"><![CDATA[Ah, look! THE SINGULARITY ENGINE!]]></entry>
+		 <entry id="privateer+str_comment_self_hit_irrational"><![CDATA[Faster, Iago! Faster!]]></entry>
+		 <entry id="privateer+str_comment_self_hit_irrational"><![CDATA[Never pay more than 20 for entertainment.]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_missed_fearful"><![CDATA[This isn't how the plan goes! Try again!]]></entry>
+		 <entry id="privateer+str_comment_self_missed_fearful"><![CDATA[Need backup! Something!]]></entry>
+		 <entry id="privateer+str_comment_self_missed_fearful"><![CDATA[WATCH OUT HE'S GOING TO STRIKE YOU SO HARD THE EARTH WILL FEEL IT!]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_missed_paranoid"><![CDATA[Treachery and evil abound!]]></entry>
+		 <entry id="privateer+str_comment_self_missed_paranoid"><![CDATA[WHAT ARE YOU HIDING FROM ME?!]]></entry>
+		 <entry id="privateer+str_comment_self_missed_paranoid"><![CDATA[One of you poisoned me! I know it!]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_missed_masochistic"><![CDATA[Unpolished. Unworthy.]]></entry>
+		 <entry id="privateer+str_comment_self_missed_masochistic"><![CDATA[What is wrong with you?!]]></entry>
+		 <entry id="privateer+str_comment_self_missed_masochistic"><![CDATA[I'm not seeing enough blood here!]]></entry>
+	     
+		 <entry id="privateer+str_comment_self_missed_irrational"><![CDATA[Why is it a bulls-eye if a squirrel's eye is smaller?]]></entry>
+		 <entry id="privateer+str_comment_self_missed_irrational"><![CDATA[Be of good cheer, lad. It's hard to aim in low gravity.]]></entry>
+		 <entry id="privateer+str_comment_self_missed_irrational"><![CDATA[You can't aim with tears in your eyes! Stop snivelling!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_attack_hit_selfish"><![CDATA[Stop your nonsense or I will stop YOU.]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_hit_selfish"><![CDATA[Heresy! You must cease and desist immediately!]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_hit_selfish"><![CDATA[Stop tickling him with your weapon! That's not how you use it!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_attack_hit_abusive"><![CDATA[I wouldn't be a bit surprised if you did that with unholy assistance.]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_hit_abusive"><![CDATA[Let a professional do it, you moron.]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_hit_abusive"><![CDATA[I could have hit him so hard they'd feel it in the next dungeon over.]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_attack_hit_irrational"><![CDATA[Crunchy moon-dust! Yes, that's what you need!]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_hit_irrational"><![CDATA[Did you forget to say your prayers again?]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_hit_irrational"><![CDATA[Make sure he's dead, or he'll be back for the sequel!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_attack_missed_fearful"><![CDATA[Just as I thought. Quick, with me!]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_fearful"><![CDATA[Is it really that fast? Come on, let's go!]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_fearful"><![CDATA[What are you waiting for? HIT HIM!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_missed_paranoid"><![CDATA[Are you trying to kill us or them?!]]></entry>
+		 <entry id="privateer+str_comment_ally_missed_paranoid"><![CDATA[Oh, you'll pay for your lack of vision!]]></entry>
+		 <entry id="privateer+str_comment_ally_missed_paranoid"><![CDATA[You better strike gain before I decide you're a traitor after all!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_attack_missed_abusive"><![CDATA[It's a wonder we got even this far with such a display.]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_abusive"><![CDATA[And this is why I worked alone up until now.]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_abusive"><![CDATA[You fool!]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_abusive"><![CDATA[This is why you go to church and not the bar, you drunken profligate!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_attack_missed_selfish"><![CDATA[This is what you get for resenting my prayers for you.]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_selfish"><![CDATA[Learned your lesson yet?]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_selfish"><![CDATA[At least I'm not an idiot too.]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_attack_missed_irrational"><![CDATA[Fish!]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_irrational"><![CDATA[I know where you can get some fine spectacles.]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_irrational"><![CDATA[You realise, of course, the numbers are stacked against us. I looked in the files and saw.]]></entry>
+		 <entry id="privateer+str_comment_ally_attack_missed_irrational"><![CDATA[Did you know your minimum chance to hit is zero but your maximum is ninety-five? And THEY call that FAIR!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_hit_fearful"><![CDATA[You're looking more like me now! What a development!]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_fearful"><![CDATA[Don't worry, it'll come off of you... right?]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_fearful"><![CDATA[No! Have mercy on that poor young one!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_hit_paranoid"><![CDATA[I'm confused...]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_paranoid"><![CDATA[Light preserve us!]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_paranoid"><![CDATA[Someone told them our tactics! Surely!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_hit_masochistic"><![CDATA[You sit tight and live through it.]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_masochistic"><![CDATA[I'm over HERE, you fools!]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_masochistic"><![CDATA[Bite the bullet, weakling!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_hit_abusive"><![CDATA[Children should not play men's games!]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_abusive"><![CDATA[Ready to let a devout individual do his work the proper way now?]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_abusive"><![CDATA[About time!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_hit_irrational"><![CDATA[Stop being so loud! I'm trying to write here!]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_irrational"><![CDATA[Hm, I think you just invented a new note there!]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_irrational"><![CDATA[The base chance of virtue is twenty-five percent. Now you know how balanced this is.]]></entry>
+		 <entry id="privateer+str_comment_ally_hit_irrational"><![CDATA[Stacked numbers and artificially extended campaigns are not how you design a challenge.]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_missed_fearful"><![CDATA[What have you done!]]></entry>
+		 <entry id="privateer+str_comment_ally_missed_fearful"><![CDATA[This can't be happening!]]></entry>
+		 <entry id="privateer+str_comment_ally_missed_fearful"><![CDATA[Will we make it out alive?]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_missed_paranoid"><![CDATA[You've been conspiring with them all along! I see it now!]]></entry>
+		 <entry id="privateer+str_comment_ally_missed_paranoid"><![CDATA[Impostor! Decide now whom you serve!]]></entry>
+		 <entry id="privateer+str_comment_ally_missed_paranoid"><![CDATA[You're a traitor. Right? RIGHT?!]]></entry>
+	     
+		 <entry id="privateer+str_comment_ally_missed_irrational"><![CDATA[It won't come off? Here, let the inventor show you how.]]></entry>
+		 <entry id="privateer+str_comment_ally_missed_irrational"><![CDATA[ZOGGIN' KRUMP 'IM, YA GIT!]]></entry>
+		 <entry id="privateer+str_comment_ally_missed_irrational"><![CDATA[Edit the files. There's no shame in rectifying a poorly designed challenge.]]></entry>
+	     
+		 <entry id="privateer+str_block_move_fearful"><![CDATA[Blood is thicker than water. My blood most of all.]]></entry>
+		 <entry id="privateer+str_block_move_fearful"><![CDATA[S-stand your ground, damn it!]]></entry>
+		 <entry id="privateer+str_block_move_fearful"><![CDATA[I-I'm not a coward! I'M NOT, ALRIGHT?!]]></entry>
+	     
+		 <entry id="privateer+str_block_move_paranoid"><![CDATA[Oho! Fancy yourself an escape artist, eh? SIDDOWN.]]></entry>
+		 <entry id="privateer+str_block_move_paranoid"><![CDATA[Your heresy will not escape its retribution this time.]]></entry>
+		 <entry id="privateer+str_block_move_paranoid"><![CDATA[Plant yourself like a tree and don't make any sudden moves.]]></entry>
+	     
+		 <entry id="privateer+str_block_move_masochistic"><![CDATA[First I'm going to beat the stuffing out of you.]]></entry>
+		 <entry id="privateer+str_block_move_masochistic"><![CDATA[Is your stuffing beat yet?]]></entry>
+		 <entry id="privateer+str_block_move_masochistic"><![CDATA[Why? This is such good entertainment!]]></entry>
+	     
+		 <entry id="privateer+str_block_move_abusive"><![CDATA[I always knew you were spineless vermin.]]></entry>
+		 <entry id="privateer+str_block_move_abusive"><![CDATA[Sit down or I'll knock you down.]]></entry>
+		 <entry id="privateer+str_block_move_abusive"><![CDATA[Bow and cross yourself when you pass me, heathen!]]></entry>
+		 <entry id="privateer+str_block_move_abusive"><![CDATA[Yellowbelly! You stay right where you are!]]></entry>
+	     
+		 <entry id="privateer+str_block_move_irrational"><![CDATA[Where are you going? You haven't seen my performance!]]></entry>
+		 <entry id="privateer+str_block_move_irrational"><![CDATA[You know, you're not so bad. Stick around, won't you?]]></entry>
+		 <entry id="privateer+str_block_move_irrational"><![CDATA[DLC? What's that? Whatever it is, it's not something you yourself want to buy.]]></entry>
+	     
+		 <entry id="privateer+str_block_item_paranoid"><![CDATA[It's not consecrated. How do I know you didn't curse it?]]></entry>
+		 <entry id="privateer+str_block_item_paranoid"><![CDATA[I trust you as I would a snake. I think not.]]></entry>
+		 <entry id="privateer+str_block_item_paranoid"><![CDATA[STOP IT! I don't trust you!]]></entry>
+	     
+		 <entry id="privateer+str_block_item_masochistic"><![CDATA[Suffering and I are one. What God has joined, let no man separate.]]></entry>
+		 <entry id="privateer+str_block_item_masochistic"><![CDATA[Stop distracting me, so I can regain my wits and stop speaking nonsense!]]></entry>
+		 <entry id="privateer+str_block_item_masochistic"><![CDATA[Blood makes a good paintjob, alright?]]></entry>
+	     
+		 <entry id="privateer+str_block_item_depressed"><![CDATA[Don't waste your strength on me. No-one would even notice.]]></entry>
+		 <entry id="privateer+str_block_item_depressed"><![CDATA[It's the same one way or another. (sigh)]]></entry>
+		 <entry id="privateer+str_block_item_depressed"><![CDATA[Let me ask you something. Do you REALLY care?]]></entry>
+	     
+		 <entry id="privateer+str_block_item_irrational"><![CDATA[Give it to me. I will use it to FIX your FACE!]]></entry>
+		 <entry id="privateer+str_block_item_irrational"><![CDATA[Ooh! CRUNCHY!]]></entry>
+		 <entry id="privateer+str_block_item_irrational"><![CDATA[Ever wonder why we number the years the way we do? Mm-hm! Why is that relevant? Reasons!]]></entry>
+	     
+		 <entry id="privateer+str_block_heal_paranoid"><![CDATA[The dose distinguishes poison from medicine. Which is why I don't trust you.]]></entry>
+		 <entry id="privateer+str_block_heal_paranoid"><![CDATA[Cease your witchcraft! I will not tolerate it!]]></entry>
+		 <entry id="privateer+str_block_heal_paranoid"><![CDATA[Get away from me with that!]]></entry>
+		 <entry id="privateer+str_block_heal_paranoid"><![CDATA[Do you heal by the power of God or your heathen sorceries?!]]></entry>
+	     
+		 <entry id="privateer+str_block_heal_masochistic"><![CDATA[If my craft is death, should I not partake of it too?]]></entry>
+		 <entry id="privateer+str_block_heal_masochistic"><![CDATA[And evade my just due? No, I deserve this for my failure.]]></entry>
+		 <entry id="privateer+str_block_heal_masochistic"><![CDATA[I have failed you for the last time. Let me pay the price.]]></entry>
+		 <entry id="privateer+str_block_heal_masochistic"><![CDATA[No, you'll ruin my glorious scars!]]></entry>
+	     
+		 <entry id="privateer+str_block_heal_depressed"><![CDATA[No... you couldn't be sincere...]]></entry>
+		 <entry id="privateer+str_block_heal_depressed"><![CDATA[Do not prolong my suffering!]]></entry>
+		 <entry id="privateer+str_block_heal_depressed"><![CDATA[I failed. Leave me be.]]></entry>
+		 <entry id="privateer+str_block_heal_depressed"><![CDATA[You don't really care about me. No-one does, after all.]]></entry>
+	     
+		 <entry id="privateer+str_block_heal_irrational"><![CDATA[YOU DARE TO GIVE ME LEMONS?!]]></entry>
+		 <entry id="privateer+str_block_heal_irrational"><![CDATA[I am not an abomination! Stop trying to brand me!]]></entry>
+		 <entry id="privateer+str_block_heal_irrational"><![CDATA[Ugh, I can't stand the taste of that.]]></entry>
+		 <entry id="privateer+str_block_heal_irrational"><![CDATA[I'll have two number nines, a number nine large, a number six with extra dip...]]></entry>
+	     
+		 <entry id="privateer+str_block_buff_paranoid"><![CDATA[Pagan rituals. Amusing.]]></entry>
+		 <entry id="privateer+str_block_buff_paranoid"><![CDATA[Stay where you are!]]></entry>
+		 <entry id="privateer+str_block_buff_paranoid"><![CDATA[I will not imbibe unholy assistance.]]></entry>
+		 <entry id="privateer+str_block_buff_paranoid"><![CDATA[That's kind of you. BUT do you have unholy assistance?]]></entry>
+	     
+		 <entry id="privateer+str_block_buff_masochistic"><![CDATA[Foolishness.]]></entry>
+		 <entry id="privateer+str_block_buff_masochistic"><![CDATA[Go away, you bother me!]]></entry>
+		 <entry id="privateer+str_block_buff_masochistic"><![CDATA[Sure, add another scar why don't you.]]></entry>
+		 <entry id="privateer+str_block_buff_masochistic"><![CDATA[How will I get better if you make it easier?]]></entry>
+	     
+		 <entry id="privateer+str_block_buff_depressed"><![CDATA[I've done better than that. Look where I've brought us.]]></entry>
+		 <entry id="privateer+str_block_buff_depressed"><![CDATA[Please, just leave me alone.]]></entry>
+		 <entry id="privateer+str_block_buff_depressed"><![CDATA[You're just using me, aren't you?]]></entry>
+		 <entry id="privateer+str_block_buff_depressed"><![CDATA[Just play me a dirge and let's be done with it.]]></entry>
+	     
+		 <entry id="privateer+str_block_buff_irrational"><![CDATA[Pay me first.]]></entry>
+		 <entry id="privateer+str_block_buff_irrational"><![CDATA[Get with the program.]]></entry>
+		 <entry id="privateer+str_block_buff_irrational"><![CDATA[Stop talking! They'll hear you!]]></entry>
+		 <entry id="privateer+str_block_buff_irrational"><![CDATA[No! I'm tired of that fool blabbering about brilliant confluences of skill and purpose!]]></entry>
+		 
+	     <entry id="privateer+str_monster_attack_unholy_smite"><![CDATA[Take your filthy paws off of me, you heathen!]]></entry>
+	     <entry id="privateer+str_monster_attack_unholy_judgement"><![CDATA[You'll pay for your insolence, worm!]]></entry>
+	     <entry id="privateer+str_monster_attack_unholy_curse"><![CDATA[Yes, yes, I've seen it all before. STOP IT!]]></entry>
+	     <entry id="privateer+str_bark_hobby"><![CDATA[The negative emotions aren't so bad.]]></entry>
+		 <entry id="privateer+str_bark_hobby"><![CDATA[I hope my new book opens the eyes of many.]]></entry>
+		 <entry id="privateer+str_bark_hobby"><![CDATA[In this chapter, I'll make a mockery of the godless.]]></entry>
+	     <entry id="privateer+str_bark_deathsdoor"><![CDATA[I can't die yet. So many things to learn.]]></entry>
+	     <entry id="privateer+str_block_camping_skill_performer_fearful"><![CDATA[M-my wits fail me!]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_fearful"><![CDATA[Hold your horses, let me regain my strength.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_fearful"><![CDATA[I can't! I must stay alert for the ambush!]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_paranoid"><![CDATA[Traitor! How can I strengthen that which I set out to destroy?]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_paranoid"><![CDATA[Help a traitor! I could not!]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_paranoid"><![CDATA[Helping a heretic would betray all that I stand for.]]></entry>
+	     <entry id="privateer+str_block_camping_skill_performer_masochistic"><![CDATA[If the Light has put this crucible in our way, why should I stop it?]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_masochistic"><![CDATA[No. You have failed, and you will pay the price.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_masochistic"><![CDATA[I have failed. I am going to pay the price.]]></entry>
+	     <entry id="privateer+str_block_camping_skill_performer_abusive"><![CDATA[Why should I help you if you hate me, wretch?]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_abusive"><![CDATA[Oh, I'll help you, alright. Help you go where you belong.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_abusive"><![CDATA[You are unworthy filth. You betray the Light!]]></entry>
+	     <entry id="privateer+str_block_camping_skill_performer_selfish"><![CDATA[Ever wonder why I keep all this garlic for myself? That's why.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_selfish"><![CDATA[All I've got for you is a prayer and a bar of soap.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_selfish"><![CDATA[Recant your insults and then we'll talk.]]></entry>
+	     <entry id="privateer+str_block_camping_skill_performer_depressed"><![CDATA[The spirit is willing but the flesh is weak.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_depressed"><![CDATA[It's not my fault, if in God's plan, He made the devil so much stronger than a man!]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_depressed"><![CDATA[I can't. I can't do anything.]]></entry>
+	     <entry id="privateer+str_block_camping_skill_performer_irrational"><![CDATA[Not now, I'm busy polishing my head.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_irrational"><![CDATA[Pfft, who dresses you? The garbageman?]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_irrational"><![CDATA[Give me more. I'm hungry!]]></entry>
+		 <entry id="privateer+str_block_camping_skill_performer_irrational"><![CDATA[Mistaken in death as you were in life, old partner!]]></entry>
+	     <entry id="privateer+str_block_camping_skill_target_paranoid"><![CDATA[Pious men have died by poisoning and stabbing before. Not me!]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_paranoid"><![CDATA[Keep away from me, or this stick goes up your nose.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_paranoid"><![CDATA[Nice try. I will not be assassinated.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_masochistic"><![CDATA[I have nothing left to lose. Go away.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_masochistic"><![CDATA[Leave me alone, I'll do it myself.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_masochistic"><![CDATA[Breaking a fasting prayer is a sin.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_abusive"><![CDATA[After what you did, do you think I'll let you near me? As if!]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_abusive"><![CDATA[Your incompetence will only bring me bodily harm.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_abusive"><![CDATA[Perverse in mind, perverse in body too no doubt.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_depressed"><![CDATA[Do not interrupt me. I'm praying for your soul.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_depressed"><![CDATA[My injury is not in body, but in mind.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_depressed"><![CDATA[Whatever.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_irrational"><![CDATA[Thank-you, but I'm going to go cook my hats.]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_irrational"><![CDATA[Ever tried dissolving sun-stone in tea? Tastes like stardust!]]></entry>
+		 <entry id="privateer+str_block_camping_skill_target_irrational"><![CDATA[Wait, you mean everything ISN'T supposed to be all blurry?!]]></entry>
+		 <entry id="privateer+str_block_camping_meal_paranoid"><![CDATA[Did you poison it? DID YOU POISON IT?!]]></entry>
+		 <entry id="privateer+str_block_camping_meal_paranoid"><![CDATA[You'd love to let that knife slip in my direction, wouldn't you?]]></entry>
+		 <entry id="privateer+str_block_camping_meal_paranoid"><![CDATA[I can't eat this! ABSOLUTELY anathema!]]></entry>
+		 <entry id="privateer+str_block_camping_meal_masochist"><![CDATA[Fasting and prayer is all I need.]]></entry>
+		 <entry id="privateer+str_block_camping_meal_masochist"><![CDATA[No, I'm fasting.]]></entry>
+		 <entry id="privateer+str_block_camping_meal_depressed"><![CDATA[I don't feel like eating, thank-you.]]></entry>
+		 <entry id="privateer+str_block_camping_meal_depressed"><![CDATA[Ugh, no... I have no appetite.]]></entry>
+		 <entry id="privateer+str_block_camping_meal_irrational"><![CDATA[I would like to eat your map.]]></entry>
+		 <entry id="privateer+str_block_camping_meal_irrational"><![CDATA[Remember how the prophet ate the book? Time for me to do the same.]]></entry>
+	</language>
+</root>

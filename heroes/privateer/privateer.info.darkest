@@ -1,0 +1,72 @@
+resistances: .stun 40% .poison 30% .bleed 30% .disease 20% .move 40% .debuff 30% .death_blow 67% .trap 10%
+crit: .effects 
+weapon: .name "privateer_weapon_0" .atk 0% .dmg 6 8 .crit 3% .spd 7
+weapon: .name "privateer_weapon_1" .atk 0% .dmg 7 10 .crit 4% .spd 7 .upgradeRequirementCode 0
+weapon: .name "privateer_weapon_2" .atk 0% .dmg 7 11 .crit 5% .spd 8 .upgradeRequirementCode 1
+weapon: .name "privateer_weapon_3" .atk 0% .dmg 8 12 .crit 6% .spd 8 .upgradeRequirementCode 2
+weapon: .name "privateer_weapon_4" .atk 0% .dmg 9 14 .crit 7% .spd 9 .upgradeRequirementCode 3
+armour: .name "privateer_armour_0" .def 0% .prot 0 .hp 21 .spd 0
+armour: .name "privateer_armour_1" .def 5% .prot 0 .hp 25 .spd 0 .upgradeRequirementCode 0
+armour: .name "privateer_armour_2" .def 10% .prot 0 .hp 29 .spd 0 .upgradeRequirementCode 1
+armour: .name "privateer_armour_3" .def 15% .prot 0 .hp 33 .spd 0 .upgradeRequirementCode 2
+armour: .name "privateer_armour_4" .def 20% .prot 0 .hp 37 .spd 0 .upgradeRequirementCode 3
+mode: .id privateer .is_raid_default true
+
+combat_move_skill: .id "move" .level 0 .type "move" .move 2 2 .launch 4321 .effect priva_Move_rip
+
+combat_skill: .id "priva_sword_slash" .level 0 .type "melee" .atk 85%	.dmg -20% .crit 4% .launch 12 .target 123 .is_crit_valid True  .effect priva_CorSla_Gold1 "Privateer Bleed Debuff 1"
+combat_skill: .id "priva_sword_slash" .level 1 .type "melee" .atk 90%	.dmg -20% .crit 5% .launch 12 .target 123 .is_crit_valid True  .effect priva_CorSla_Gold2 "Privateer Bleed Debuff 2"
+combat_skill: .id "priva_sword_slash" .level 2 .type "melee" .atk 95%	.dmg -20% .crit 6% .launch 12 .target 123 .is_crit_valid True  .effect priva_CorSla_Gold3 "Privateer Bleed Debuff 3"
+combat_skill: .id "priva_sword_slash" .level 3 .type "melee" .atk 100%	.dmg -20% .crit 7% .launch 12 .target 123 .is_crit_valid True  .effect priva_CorSla_Gold4 "Privateer Bleed Debuff 4"
+combat_skill: .id "priva_sword_slash" .level 4 .type "melee" .atk 105%	.dmg -20% .crit 8% .launch 12 .target 123 .is_crit_valid True  .effect priva_CorSla_Gold5 "Privateer Bleed Debuff 5"
+
+combat_skill: .id "priva_pirate_flag" .level 0 .type "ranged" .atk 100%	.dmg -100% .crit 0% .launch 123 .target 4231 .is_crit_valid false  .effect "Priva Sword Crit 1" priva_PirFla_Clear_Rip priva_PirFla_Mark priva_PirFla_Rip_1 priva_PirFla_Rip_bonus "Privateer_Bounty_Mark"
+combat_skill: .id "priva_pirate_flag" .level 1 .type "ranged" .atk 105%	.dmg -100% .crit 0% .launch 123 .target 4231 .is_crit_valid false  .effect "Priva Sword Crit 2" priva_PirFla_Clear_Rip priva_PirFla_Mark priva_PirFla_Rip_2 priva_PirFla_Rip_bonus "Privateer_Bounty_Mark"
+combat_skill: .id "priva_pirate_flag" .level 2 .type "ranged" .atk 110%	.dmg -100% .crit 0% .launch 123 .target 4231 .is_crit_valid false  .effect "Priva Sword Crit 3" priva_PirFla_Clear_Rip priva_PirFla_Mark priva_PirFla_Rip_3 priva_PirFla_Rip_bonus "Privateer_Bounty_Mark"
+combat_skill: .id "priva_pirate_flag" .level 3 .type "ranged" .atk 115%	.dmg -100% .crit 0% .launch 123 .target 4231 .is_crit_valid false  .effect "Priva Sword Crit 4" priva_PirFla_Clear_Rip priva_PirFla_Mark priva_PirFla_Rip_4 priva_PirFla_Rip_bonus "Privateer_Bounty_Mark"
+combat_skill: .id "priva_pirate_flag" .level 4 .type "ranged" .atk 120%	.dmg -100% .crit 0% .launch 123 .target 4231 .is_crit_valid false  .effect "Priva Sword Crit 5" priva_PirFla_Clear_Rip priva_PirFla_Mark priva_PirFla_Rip_5 priva_PirFla_Rip_bonus "Privateer_Bounty_Mark"
+riposte_skill: .id "riposte1" .level 0 .type "melee" .atk 85% .dmg 0% .crit 6% .launch 1234 .target 1234 .is_crit_valid True 
+
+combat_skill: .id "priva_drink" .level 0 .launch 4321 .target .is_crit_valid True  .effect "Privateer Drink Stress Heal 1" "Booze Heal 1" "So Drunk that nothing really spooks you 1" "Rum Booze ACC Debuff 1" "Timbers Shivered 1"
+combat_skill: .id "priva_drink" .level 1 .launch 4321 .target .is_crit_valid True  .effect "Privateer Drink Stress Heal 2" "Booze Heal 2" "So Drunk that nothing really spooks you 2" "Rum Booze ACC Debuff 2" "Timbers Shivered 2"
+combat_skill: .id "priva_drink" .level 2 .launch 4321 .target .is_crit_valid True  .effect "Privateer Drink Stress Heal 3" "Booze Heal 3" "So Drunk that nothing really spooks you 3" "Rum Booze ACC Debuff 3" "Timbers Shivered 3"
+combat_skill: .id "priva_drink" .level 3 .launch 4321 .target .is_crit_valid True  .effect "Privateer Drink Stress Heal 4" "Booze Heal 4" "So Drunk that nothing really spooks you 4" "Rum Booze ACC Debuff 4" "Timbers Shivered 4"
+combat_skill: .id "priva_drink" .level 4 .launch 4321 .target .is_crit_valid True  .effect "Privateer Drink Stress Heal 5" "Booze Heal 5" "So Drunk that nothing really spooks you 5" "Rum Booze ACC Debuff 5" "Timbers Shivered 5"
+
+combat_skill: .id "priva_rifle_shoot" .level 0 .type "ranged" .atk 95%	.dmg 0%	.crit 5%	.launch 432 .target 423 .is_crit_valid True  .effect priva_RifSho_Prot_Ignore
+combat_skill: .id "priva_rifle_shoot" .level 1 .type "ranged" .atk 100%	.dmg 0%	.crit 6%	.launch 432 .target 423 .is_crit_valid True  .effect priva_RifSho_Prot_Ignore
+combat_skill: .id "priva_rifle_shoot" .level 2 .type "ranged" .atk 105%	.dmg 0%	.crit 7%	.launch 432 .target 423 .is_crit_valid True  .effect priva_RifSho_Prot_Ignore
+combat_skill: .id "priva_rifle_shoot" .level 3 .type "ranged" .atk 110%	.dmg 0%	.crit 8%	.launch 432 .target 423 .is_crit_valid True  .effect priva_RifSho_Prot_Ignore
+combat_skill: .id "priva_rifle_shoot" .level 4 .type "ranged" .atk 115%	.dmg 0%	.crit 9%	.launch 432 .target 423 .is_crit_valid True  .effect priva_RifSho_Prot_Ignore
+
+combat_skill: .id "priva_triple_gun" .level 0 .type "ranged" .atk 50% .dmg -50% .crit 6% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 1" priva_StuGun_Dbff_1 
+combat_skill: .id "priva_triple_gun" .level 1 .type "ranged" .atk 55% .dmg -50% .crit 8% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 2" priva_StuGun_Dbff_2
+combat_skill: .id "priva_triple_gun" .level 2 .type "ranged" .atk 60% .dmg -50% .crit 9% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 3" priva_StuGun_Dbff_3
+combat_skill: .id "priva_triple_gun" .level 3 .type "ranged" .atk 65% .dmg -50% .crit 10% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 4" priva_StuGun_Dbff_4
+combat_skill: .id "priva_triple_gun" .level 4 .type "ranged" .atk 70% .dmg -50% .crit 12% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 5" priva_StuGun_Dbff_5
+  
+combat_skill: .id "priva_barrel" .level 0 .type "ranged" .atk 80%	.dmg 20% .crit 6%	.launch 1 .target 23 .is_crit_valid True  .effect priva_CanBla_Push_S_1 priva_CanBla_Push_T_1 priva_CanBla_guard_break priva_CanBla_guard_break_TT .per_turn_limit 2
+combat_skill: .id "priva_barrel" .level 1 .type "ranged" .atk 85%	.dmg 20% .crit 7%	.launch 1 .target 23 .is_crit_valid True  .effect priva_CanBla_Push_S_2 priva_CanBla_Push_T_2 priva_CanBla_guard_break priva_CanBla_guard_break_TT .per_turn_limit 2
+combat_skill: .id "priva_barrel" .level 2 .type "ranged" .atk 90%	.dmg 20% .crit 8%	.launch 1 .target 23 .is_crit_valid True  .effect priva_CanBla_Push_S_3 priva_CanBla_Push_T_3 priva_CanBla_guard_break priva_CanBla_guard_break_TT .per_turn_limit 2
+combat_skill: .id "priva_barrel" .level 3 .type "ranged" .atk 95%	.dmg 20% .crit 9%	.launch 1 .target 23 .is_crit_valid True  .effect priva_CanBla_Push_S_4 priva_CanBla_Push_T_4 priva_CanBla_guard_break priva_CanBla_guard_break_TT .per_turn_limit 2
+combat_skill: .id "priva_barrel" .level 4 .type "ranged" .atk 100%	.dmg 20% .crit 10%	.launch 1 .target 23 .is_crit_valid True  .effect priva_CanBla_Push_S_5 priva_CanBla_Push_T_5 priva_CanBla_guard_break priva_CanBla_guard_break_TT .per_turn_limit 2
+
+combat_skill: .id "priva_fire_spit" .level 0 .type "ranged" .atk 90% 	.dmg -67% .crit 0% .launch 12 .target 123 .is_crit_valid True  .effect priva_FirSpit_ACTOR_1
+combat_skill: .id "priva_fire_spit" .level 1 .type "ranged" .atk 95% 	.dmg -67% .crit 1% .launch 12 .target 123 .is_crit_valid True  .effect priva_FirSpit_ACTOR_1
+combat_skill: .id "priva_fire_spit" .level 2 .type "ranged" .atk 100% 	.dmg -67% .crit 2% .launch 12 .target 123 .is_crit_valid True  .effect priva_FirSpit_ACTOR_2
+combat_skill: .id "priva_fire_spit" .level 3 .type "ranged" .atk 105% 	.dmg -67% .crit 3% .launch 12 .target 123 .is_crit_valid True  .effect priva_FirSpit_ACTOR_2
+combat_skill: .id "priva_fire_spit" .level 4 .type "ranged" .atk 110% 	.dmg -67% .crit 4% .launch 12 .target 123 .is_crit_valid True  .effect priva_FirSpit_ACTOR_3
+tag: .id "light"
+tag: .id "religious"
+tag: .id "outsiders_bonfire"
+tag: .id "privateer"
+
+extra_curio_loot:  .code "priv_T" .count 1
+extra_battle_loot:  .code "priv_T" .count 1
+
+deaths_door: .buffs deathsdoorACCDebuff deathsdoorDMGLowDebuff deathsdoorDMGHighDebuff deathsdoorSPDDebuff deathsdoorSRDebuff .recovery_buffs mortalityACCDebuff mortalityDMGLowDebuff mortalityDMGHighDebuff mortalitySPDDebuff mortalitySRDebuff .recovery_heart_attack_buffs heartattackACCDebuff heartattackDMGLowDebuff heartattackDMGHighDebuff heartattackSPDDebuff heartattackSRDebuff
+controlled: .target_rank 3
+id_index: .index 281
+
+skill_selection: .can_select_combat_skills true .number_of_selected_combat_skills_max 4
+generation: .is_generation_enabled true .number_of_positive_quirks_min 1 .number_of_positive_quirks_max 2 .number_of_negative_quirks_min 1 .number_of_negative_quirks_max 2 .number_of_class_specific_camping_skills 2 .number_of_shared_camping_skills 1 .number_of_random_combat_skills 7 .number_of_cards_in_deck 6 .card_chance 4.0 

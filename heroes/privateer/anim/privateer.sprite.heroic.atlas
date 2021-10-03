@@ -1,0 +1,27 @@
+
+privateer.sprite.heroic.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACK
+  rotate: false
+  xy: 2, 494
+  size: 1606, 1288
+  orig: 1606, 1288
+  offset: 0, 0
+  index: -1
+HALO
+  rotate: false
+  xy: 2, 2
+  size: 499, 490
+  orig: 499, 490
+  offset: 0, 0
+  index: -1
+privateerVirtueclear
+  rotate: false
+  xy: 1610, 779
+  size: 933, 1003
+  orig: 933, 1003
+  offset: 0, 0
+  index: -1
