@@ -1,15 +1,15 @@
 resistances: .stun 40% .poison 30% .bleed 30% .disease 20% .move 40% .debuff 30% .death_blow 67% .trap 10%
 crit: .effects 
-weapon: .name "privateer_weapon_0" .atk 0% .dmg 6 8 .crit 3% .spd 7
-weapon: .name "privateer_weapon_1" .atk 0% .dmg 7 10 .crit 4% .spd 7 .upgradeRequirementCode 0
-weapon: .name "privateer_weapon_2" .atk 0% .dmg 7 11 .crit 5% .spd 8 .upgradeRequirementCode 1
-weapon: .name "privateer_weapon_3" .atk 0% .dmg 8 12 .crit 6% .spd 8 .upgradeRequirementCode 2
-weapon: .name "privateer_weapon_4" .atk 0% .dmg 9 14 .crit 7% .spd 9 .upgradeRequirementCode 3
-armour: .name "privateer_armour_0" .def 0% .prot 0 .hp 21 .spd 0
-armour: .name "privateer_armour_1" .def 5% .prot 0 .hp 25 .spd 0 .upgradeRequirementCode 0
-armour: .name "privateer_armour_2" .def 10% .prot 0 .hp 29 .spd 0 .upgradeRequirementCode 1
-armour: .name "privateer_armour_3" .def 15% .prot 0 .hp 33 .spd 0 .upgradeRequirementCode 2
-armour: .name "privateer_armour_4" .def 20% .prot 0 .hp 37 .spd 0 .upgradeRequirementCode 3
+weapon: .name "privateer_weapon_0" .atk 0% .dmg 6 8 .crit 3% .spd 5
+weapon: .name "privateer_weapon_1" .atk 0% .dmg 7 10 .crit 4% .spd 5 .upgradeRequirementCode 0
+weapon: .name "privateer_weapon_2" .atk 0% .dmg 7 11 .crit 5% .spd 6 .upgradeRequirementCode 1
+weapon: .name "privateer_weapon_3" .atk 0% .dmg 8 12 .crit 6% .spd 6 .upgradeRequirementCode 2
+weapon: .name "privateer_weapon_4" .atk 0% .dmg 9 14 .crit 7% .spd 7 .upgradeRequirementCode 3
+armour: .name "privateer_armour_0" .def 0% .prot 0 .hp 25 .spd 0
+armour: .name "privateer_armour_1" .def 5% .prot 0 .hp 30 .spd 0 .upgradeRequirementCode 0
+armour: .name "privateer_armour_2" .def 10% .prot 0 .hp 35 .spd 0 .upgradeRequirementCode 1
+armour: .name "privateer_armour_3" .def 15% .prot 0 .hp 40 .spd 0 .upgradeRequirementCode 2
+armour: .name "privateer_armour_4" .def 20% .prot 0 .hp 45 .spd 0 .upgradeRequirementCode 3
 mode: .id privateer .is_raid_default true
 
 combat_move_skill: .id "move" .level 0 .type "move" .move 2 2 .launch 4321 .effect priva_Move_rip
@@ -39,11 +39,11 @@ combat_skill: .id "priva_rifle_shoot" .level 2 .type "ranged" .atk 105%	.dmg 0%	
 combat_skill: .id "priva_rifle_shoot" .level 3 .type "ranged" .atk 110%	.dmg 0%	.crit 8%	.launch 432 .target 423 .is_crit_valid True  .effect priva_RifSho_Prot_Ignore
 combat_skill: .id "priva_rifle_shoot" .level 4 .type "ranged" .atk 115%	.dmg 0%	.crit 9%	.launch 432 .target 423 .is_crit_valid True  .effect priva_RifSho_Prot_Ignore
 
-combat_skill: .id "priva_triple_gun" .level 0 .type "ranged" .atk 50% .dmg -50% .crit 6% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 1" priva_StuGun_Dbff_1 
-combat_skill: .id "priva_triple_gun" .level 1 .type "ranged" .atk 55% .dmg -50% .crit 8% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 2" priva_StuGun_Dbff_2
-combat_skill: .id "priva_triple_gun" .level 2 .type "ranged" .atk 60% .dmg -50% .crit 9% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 3" priva_StuGun_Dbff_3
-combat_skill: .id "priva_triple_gun" .level 3 .type "ranged" .atk 65% .dmg -50% .crit 10% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 4" priva_StuGun_Dbff_4
-combat_skill: .id "priva_triple_gun" .level 4 .type "ranged" .atk 70% .dmg -50% .crit 12% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 5" priva_StuGun_Dbff_5
+combat_skill: .id "priva_triple_gun" .level 0 .type "ranged" .atk 50% .dmg -40% .crit 6% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 1" priva_StuGun_Dbff_1 
+combat_skill: .id "priva_triple_gun" .level 1 .type "ranged" .atk 55% .dmg -40% .crit 8% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 2" priva_StuGun_Dbff_2
+combat_skill: .id "priva_triple_gun" .level 2 .type "ranged" .atk 60% .dmg -40% .crit 9% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 3" priva_StuGun_Dbff_3
+combat_skill: .id "priva_triple_gun" .level 3 .type "ranged" .atk 65% .dmg -40% .crit 10% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 4" priva_StuGun_Dbff_4
+combat_skill: .id "priva_triple_gun" .level 4 .type "ranged" .atk 70% .dmg -40% .crit 12% .launch 23 .target ~123 .is_crit_valid True  .effect "Duck Foot Mark Crit 5" priva_StuGun_Dbff_5
   
 combat_skill: .id "priva_barrel" .level 0 .type "ranged" .atk 80%	.dmg 20% .crit 6%	.launch 1 .target 23 .is_crit_valid True  .effect priva_CanBla_Push_S_1 priva_CanBla_Push_T_1 priva_CanBla_guard_break priva_CanBla_guard_break_TT .per_turn_limit 2
 combat_skill: .id "priva_barrel" .level 1 .type "ranged" .atk 85%	.dmg 20% .crit 7%	.launch 1 .target 23 .is_crit_valid True  .effect priva_CanBla_Push_S_2 priva_CanBla_Push_T_2 priva_CanBla_guard_break priva_CanBla_guard_break_TT .per_turn_limit 2
