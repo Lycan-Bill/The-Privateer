@@ -23,7 +23,7 @@
 			],
 			"rarity": "very_rare",
 			"price": 10000,
-			"limit": 0,
+			"limit" : 1,
 			"origin_dungeon": ""
 		},
 		{
@@ -37,7 +37,7 @@
 			],
 			"rarity": "uncommon",
 			"price": 15000,
-			"limit": 0,
+			"limit" : 1,
 			"origin_dungeon": ""
 		},
 		{
@@ -51,7 +51,7 @@
 			],
 			"rarity": "common",
 			"price": 15000,
-			"limit": 0,
+			"limit" : 1,
 			"origin_dungeon": ""
 		},
 
@@ -66,7 +66,7 @@
 			],
 			"rarity": "very_rare",
 			"price": 10000,
-			"limit": 0,
+			"limit" : 1,
 			"origin_dungeon": ""
 		},
 		{
