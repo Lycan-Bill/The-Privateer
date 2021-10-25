@@ -1,0 +1,13 @@
+{
+   "sets":
+   [
+
+      {
+         "id" : "cc_LB_Privateer",
+		 "buffs" :
+		 [
+			"MAXHP20"
+		 ]
+      }
+   ]
+}

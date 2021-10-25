@@ -1,0 +1,39 @@
+{
+   "entries":
+   [
+      {
+         "id" : "LB_Privateer_band_poster",
+         "buffs" : 
+         [
+			"MAXHP20"
+         ],
+         "hero_class_requirements":
+         [
+            "LB_Privateer"
+         ],
+         "set_id" : "cc_LB_Privateer",
+         "rarity" : "crimson_court",
+         "price" : 50000,
+         "limit" : 1,
+         "origin_dungeon" : "courtyard"
+      },
+      {
+         "id" : "LB_Privateer_ledger",
+         "buffs" : 
+         [
+          "MAXHP20"
+		  
+		  
+         ],
+         "hero_class_requirements":
+         [
+            "LB_Privateer"
+         ],
+         "set_id" : "cc_LB_Privateer",
+         "rarity" : "crimson_court",
+         "price" : 50000,
+         "limit" : 1,
+         "origin_dungeon" : "courtyard"
+      }
+   ]
+}

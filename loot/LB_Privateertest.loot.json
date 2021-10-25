@@ -1,0 +1,27 @@
+{
+   "loot_tables" :
+   [
+   
+   {
+         "id" : "priv_T",
+         "difficulty" : 0,
+         "dungeon" : "",
+         "entries" :
+         [
+			{ "type" : "item", "chances" : 100, "data" : { "type" : "trinket", "id" : "LB_Privateer_grog_barrel", "amount" : 1 }},
+            { "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_compass", "amount" : 1 }},
+            { "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_harpoon", "amount" : 1 }},
+		{ "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_sword", "amount" : 1 }},
+		{ "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_dress", "amount" : 1 }},
+  		{ "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_wanted_poster", "amount" : 1 }},
+		{ "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_wokou_sword", "amount" : 1 }},
+		{ "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_band_poster", "amount" : 1 }},
+		{ "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_shanties", "amount" : 1 }},
+		{ "type" : "item", "chances" : 1000, "data" : { "type" : "trinket", "id" : "LB_Privateer_ledger", "amount" : 1 }}
+            
+
+                    						      
+         ]
+      }
+   ]
+}

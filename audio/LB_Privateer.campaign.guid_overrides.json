@@ -1,0 +1,19 @@
+{
+    "event_guid_overrides":
+    [                
+        {"event_id": "event:/char/ally/LB_Privateer_priva_sword_slash",             "guid_override":"{6b6d2fe0-bc0b-489e-9fd0-8aca2326622e}"},
+        {"event_id": "event:/char/ally/LB_Privateer_priva_sword_slash_miss",        "guid_override":"{9a3e59cb-5338-4a43-8024-33215b715118}"},
+        {"event_id": "event:/char/ally/LB_Privateer_priva_pirate_flag",           "guid_override":"{1893695d-3da8-4e0a-953d-b2484922a083}"},
+        {"event_id": "event:/char/ally/LB_Privateer_priva_pirate_flag_miss",      "guid_override":"{3077d8d9-9d5d-4edb-b787-144c4e2a9e7f}"},
+        {"event_id": "event:/char/ally/LB_Privateer_priva_drink",           "guid_override":"{81dafef8-f94e-428e-b7c1-800ef9a41c04}"},
+        {"event_id": "event:/char/ally/LB_Privateer_priva_rifle_shoot",              "guid_override":"{2b99c65b-2176-43f9-a68d-746aed81138f}"},
+        {"event_id": "event:/char/ally/LB_Privateer_priva_rifle_shoot_miss",         "guid_override":"{bb2984e6-bef1-46ad-b27c-8c6e179126cc}"},
+        {"event_id": "event:/char/ally/LB_Privateer_priva_triple_gun",                 "guid_override":"{bb75fb23-c4eb-4a17-942b-06d8989b0241}"},
+	{"event_id": "event:/char/ally/LB_Privateer_priva_triple_gun_miss",                 "guid_override":"{ecfaa087-5731-49cc-8dc2-9a0a7abd3d8b}"},
+        {"event_id": "event:/char/ally/LB_Privateer_be_silent_bloodthirsty",            "guid_override":"{4d38b670-93dc-4741-a2e6-99345f7e9d08}"},
+        {"event_id": "event:/char/ally/LB_Privateer_priva_barrel",            "guid_override":"{b2d8437b-df1a-4f32-bb6a-25eef1a49602}"},
+	{"event_id": "event:/char/ally/LB_Privateer_priva_barrel_miss",            "guid_override":"{9712df96-b695-412a-a638-f6887bf02c20}"},
+	{"event_id": "event:/char/ally/LB_Privateer_LB_priva_fire_spit",           "guid_override":"{ec2883f0-2013-426e-9d84-3522edce698a}"},
+        {"event_id": "event:/char/ally/LB_Privateer_LB_priva_fire_spit_miss",      "guid_override":"{35216bba-dea9-4da4-8c84-4a8d48976ca4}"}
+    ]
+}

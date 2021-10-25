@@ -1,0 +1,116 @@
+{
+	"entries": [{
+			"id": "LB_Privateer_grog_barrel",
+			"buffs": [
+				"LB_Privateer_afflicted_booze_stress_heal", "LB_Privateer_HP_RUM", "LB_Privateer_rum_spd"
+			],
+			"hero_class_requirements": [
+				"LB_Privateer"
+			],
+			"rarity": "rare",
+			"price": 25000,
+			"limit": 1,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "LB_Privateer_compass",
+			"buffs": [
+				"LB_Privateer_compass_scout", "LB_Privateer_Compass_ACC", "LB_Privateer_compass_dmg_debuffL", "LB_Privateer_compass_dmg_debuffH"
+			],
+			"hero_class_requirements": [
+				"LB_Privateer"
+			],
+			"rarity": "very_rare",
+			"price": 10000,
+			"limit" : 1,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "LB_Privateer_harpoon",
+			"buffs": [
+				"LB_Privateer_hook_prot", "LB_Privateer_hook_spd"
+			],
+			"hero_class_requirements": [
+				"LB_Privateer"
+			],
+			"rarity": "uncommon",
+			"price": 15000,
+			"limit" : 1,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "LB_Privateer_shanties",
+			"buffs": [
+				"LB_Privateer_Stress_heal_recieved", "LB_Privateer_shanties_spd"
+			],
+			"hero_class_requirements": [
+				"LB_Privateer"
+			],
+			"rarity": "common",
+			"price": 15000,
+			"limit" : 1,
+			"origin_dungeon": ""
+		},
+
+		{
+
+			"id": "LB_Privateer_sword",
+			"buffs": [
+				"LB_Privateer_Raiper_RiposteL", "LB_Privateer_Raiper_RiposteH", "LB_Privateer_Raiper_Riposte_ACC", "LB_Privateer_Dodge_Debuff"
+			],
+			"hero_class_requirements": [
+				"LB_Privateer"
+			],
+			"rarity": "very_rare",
+			"price": 10000,
+			"limit" : 1,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "LB_Privateer_dress",
+			"buffs": [
+				"LB_Privateer_blight_resistance", "LB_Privateer_bleed_resistance"
+			],
+			"hero_class_requirements": [
+				"LB_Privateer"
+			],
+			"rarity": "very_common",
+			"price": 10000,
+			"limit": 1,
+			"origin_dungeon": ""
+		},
+		{
+
+			"id": "LB_Privateer_wanted_poster",
+			"buffs": ["MAXHP20"],
+			"hero_class_requirements": [
+				"LB_Privateer"
+			],
+			"rarity": "ancestral",
+			"price": 10000,
+			"limit": 1,
+			"origin_dungeon": ""
+		},
+		{
+			"id": "LB_Privateer_wokou_sword",
+			"buffs": [
+				"MAXHP20"
+			],
+			"hero_class_requirements": [
+				"LB_Privateer"
+			],
+			"rarity": "sakura",
+			"price": 30000,
+			"limit": 1,
+			"origin_dungeon": "",
+			"attack_crit_additional_effects": [
+				"MAXHP20"
+
+			]
+		}
+	]
+}

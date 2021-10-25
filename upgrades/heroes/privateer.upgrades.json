@@ -1,6 +1,6 @@
 {
 	"trees": [{
-			"id": "privateer.weapon",
+			"id": "LB_Privateer.weapon",
 			"is_instanced": true,
 			"tags": ["weapon", "first_level_not_upgrade"],
 			"requirements": [{
@@ -22,7 +22,7 @@
 						"amount": 1750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.weapon",
+							"tree_id": "LB_Privateer.weapon",
 							"requirement_code": "0"
 						},
 						{
@@ -39,7 +39,7 @@
 						"amount": 3000
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.weapon",
+							"tree_id": "LB_Privateer.weapon",
 							"requirement_code": "1"
 						},
 						{
@@ -56,7 +56,7 @@
 						"amount": 6000
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.weapon",
+							"tree_id": "LB_Privateer.weapon",
 							"requirement_code": "2"
 						},
 						{
@@ -69,7 +69,7 @@
 			]
 		},
 		{
-			"id": "privateer.armour",
+			"id": "LB_Privateer.armour",
 			"is_instanced": true,
 			"tags": ["armour", "first_level_not_upgrade"],
 			"requirements": [{
@@ -91,7 +91,7 @@
 						"amount": 1750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.armour",
+							"tree_id": "LB_Privateer.armour",
 							"requirement_code": "0"
 						},
 						{
@@ -108,7 +108,7 @@
 						"amount": 3000
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.armour",
+							"tree_id": "LB_Privateer.armour",
 							"requirement_code": "1"
 						},
 						{
@@ -125,7 +125,7 @@
 						"amount": 6000
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.armour",
+							"tree_id": "LB_Privateer.armour",
 							"requirement_code": "2"
 						},
 						{
@@ -138,7 +138,7 @@
 			]
 		},
 		{
-			"id": "privateer.priva_sword_slash",
+			"id": "LB_Privateer.priva_sword_slash",
 			"is_instanced": true,
 			"tags": ["combat_skill"],
 			"requirements": [{
@@ -157,7 +157,7 @@
 						"amount": 250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_sword_slash",
+							"tree_id": "LB_Privateer.priva_sword_slash",
 							"requirement_code": "0"
 						},
 						{
@@ -174,7 +174,7 @@
 						"amount": 750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_sword_slash",
+							"tree_id": "LB_Privateer.priva_sword_slash",
 							"requirement_code": "1"
 						},
 						{
@@ -191,7 +191,7 @@
 						"amount": 1250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_sword_slash",
+							"tree_id": "LB_Privateer.priva_sword_slash",
 							"requirement_code": "2"
 						},
 						{
@@ -208,7 +208,7 @@
 						"amount": 2500
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_sword_slash",
+							"tree_id": "LB_Privateer.priva_sword_slash",
 							"requirement_code": "3"
 						},
 						{
@@ -221,7 +221,7 @@
 			]
 		},
 		{
-			"id": "privateer.priva_pirate_flag",
+			"id": "LB_Privateer.priva_pirate_flag",
 			"is_instanced": true,
 			"tags": ["combat_skill"],
 			"requirements": [{
@@ -240,7 +240,7 @@
 						"amount": 250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_pirate_flag",
+							"tree_id": "LB_Privateer.priva_pirate_flag",
 							"requirement_code": "0"
 						},
 						{
@@ -257,7 +257,7 @@
 						"amount": 750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_pirate_flag",
+							"tree_id": "LB_Privateer.priva_pirate_flag",
 							"requirement_code": "1"
 						},
 						{
@@ -274,7 +274,7 @@
 						"amount": 1250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_pirate_flag",
+							"tree_id": "LB_Privateer.priva_pirate_flag",
 							"requirement_code": "2"
 						},
 						{
@@ -291,7 +291,7 @@
 						"amount": 2500
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_pirate_flag",
+							"tree_id": "LB_Privateer.priva_pirate_flag",
 							"requirement_code": "3"
 						},
 						{
@@ -304,7 +304,7 @@
 			]
 		},
 		{
-			"id": "privateer.priva_drink",
+			"id": "LB_Privateer.priva_drink",
 			"is_instanced": true,
 			"tags": ["combat_skill"],
 			"requirements": [{
@@ -323,7 +323,7 @@
 						"amount": 250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_drink",
+							"tree_id": "LB_Privateer.priva_drink",
 							"requirement_code": "0"
 						},
 						{
@@ -340,7 +340,7 @@
 						"amount": 750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_drink",
+							"tree_id": "LB_Privateer.priva_drink",
 							"requirement_code": "1"
 						},
 						{
@@ -357,7 +357,7 @@
 						"amount": 1250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_drink",
+							"tree_id": "LB_Privateer.priva_drink",
 							"requirement_code": "2"
 						},
 						{
@@ -374,7 +374,7 @@
 						"amount": 2500
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_drink",
+							"tree_id": "LB_Privateer.priva_drink",
 							"requirement_code": "3"
 						},
 						{
@@ -387,7 +387,7 @@
 			]
 		},
 		{
-			"id": "privateer.priva_triple_gun",
+			"id": "LB_Privateer.priva_triple_gun",
 			"is_instanced": true,
 			"tags": ["combat_skill"],
 			"requirements": [{
@@ -406,7 +406,7 @@
 						"amount": 250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_triple_gun",
+							"tree_id": "LB_Privateer.priva_triple_gun",
 							"requirement_code": "0"
 						},
 						{
@@ -423,7 +423,7 @@
 						"amount": 750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_triple_gun",
+							"tree_id": "LB_Privateer.priva_triple_gun",
 							"requirement_code": "1"
 						},
 						{
@@ -440,7 +440,7 @@
 						"amount": 1250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_triple_gun",
+							"tree_id": "LB_Privateer.priva_triple_gun",
 							"requirement_code": "2"
 						},
 						{
@@ -457,7 +457,7 @@
 						"amount": 2500
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_triple_gun",
+							"tree_id": "LB_Privateer.priva_triple_gun",
 							"requirement_code": "3"
 						},
 						{
@@ -470,7 +470,7 @@
 			]
 		},
 		{
-			"id": "privateer.priva_rifle_shoot",
+			"id": "LB_Privateer.priva_rifle_shoot",
 			"is_instanced": true,
 			"tags": ["combat_skill"],
 			"requirements": [{
@@ -489,7 +489,7 @@
 						"amount": 250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_rifle_shoot",
+							"tree_id": "LB_Privateer.priva_rifle_shoot",
 							"requirement_code": "0"
 						},
 						{
@@ -506,7 +506,7 @@
 						"amount": 750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_rifle_shoot",
+							"tree_id": "LB_Privateer.priva_rifle_shoot",
 							"requirement_code": "1"
 						},
 						{
@@ -523,7 +523,7 @@
 						"amount": 1250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_rifle_shoot",
+							"tree_id": "LB_Privateer.priva_rifle_shoot",
 							"requirement_code": "2"
 						},
 						{
@@ -540,7 +540,7 @@
 						"amount": 2500
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_rifle_shoot",
+							"tree_id": "LB_Privateer.priva_rifle_shoot",
 							"requirement_code": "3"
 						},
 						{
@@ -553,7 +553,7 @@
 			]
 		},
 		{
-			"id": "privateer.priva_barrel",
+			"id": "LB_Privateer.priva_barrel",
 			"is_instanced": true,
 			"tags": ["combat_skill"],
 			"requirements": [{
@@ -572,7 +572,7 @@
 						"amount": 250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_barrel",
+							"tree_id": "LB_Privateer.priva_barrel",
 							"requirement_code": "0"
 						},
 						{
@@ -589,7 +589,7 @@
 						"amount": 750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_barrel",
+							"tree_id": "LB_Privateer.priva_barrel",
 							"requirement_code": "1"
 						},
 						{
@@ -606,7 +606,7 @@
 						"amount": 1250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_barrel",
+							"tree_id": "LB_Privateer.priva_barrel",
 							"requirement_code": "2"
 						},
 						{
@@ -623,7 +623,7 @@
 						"amount": 2500
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_barrel",
+							"tree_id": "LB_Privateer.priva_barrel",
 							"requirement_code": "3"
 						},
 						{
@@ -636,7 +636,7 @@
 			]
 		},
 		{
-			"id": "privateer.priva_fire_spit",
+			"id": "LB_Privateer.priva_fire_spit",
 			"is_instanced": true,
 			"tags": ["combat_skill"],
 			"requirements": [{
@@ -655,7 +655,7 @@
 						"amount": 250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_fire_spit",
+							"tree_id": "LB_Privateer.priva_fire_spit",
 							"requirement_code": "0"
 						},
 						{
@@ -672,7 +672,7 @@
 						"amount": 750
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_fire_spit",
+							"tree_id": "LB_Privateer.priva_fire_spit",
 							"requirement_code": "1"
 						},
 						{
@@ -689,7 +689,7 @@
 						"amount": 1250
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_fire_spit",
+							"tree_id": "LB_Privateer.priva_fire_spit",
 							"requirement_code": "2"
 						},
 						{
@@ -706,7 +706,7 @@
 						"amount": 2500
 					}],
 					"prerequisite_requirements": [{
-							"tree_id": "privateer.priva_fire_spit",
+							"tree_id": "LB_Privateer.priva_fire_spit",
 							"requirement_code": "3"
 						},
 						{
